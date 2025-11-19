@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News Script Editor</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/tinymce@6.8.3/tinymce.min.js"></script>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body { box-sizing: border-box; margin: 0; padding: 0; height: 100%; }
+    html { height: 100%; }
+
+    .media-tag {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 0.25rem 0.5rem;
+      border-radius: 0.25rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      display: inline-block;
+      margin-right: 0.5rem;
+    }
+
+    .loading-spinner {
+      border: 3px solid #f3f4f6;
+      border-top: 3px solid #667eea;
+      border-radius: 50%;
+      width: 1.5rem;
+      height: 1.5rem;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .tab-button.active {
+      border-bottom: 3px solid #667eea;
+      color: #667eea;
+    }
+
+    .fade-in { animation: fadeIn 0.5s ease-in; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app" class="h-full flex flex-col" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+
+    <!-- Header -->
+    <header class="bg-white shadow-lg relative">
+      <div class="flex items-center justify-between px-6 py-4 relative">
+
+        <button onclick="history.back()"
+          class="inline-flex items-center gap-2 bg-white border border-gray-200 shadow-sm hover:shadow-md
+                px-4 py-2 rounded-full text-gray-700 hover:text-indigo-700 transition-all">
+            <span class="text-lg">←</span> Quay lại
+        </button>
+
+        <div class="absolute left-1/2 -translate-x-1/2 text-center">
+          <h1 class="text-3xl font-bold text-indigo-500">AI News Script Editor</h1>
+          <p class="text-sm text-gray-600">Hệ thống biên tập kịch bản video tin tức dựa trên cụm dữ kiện</p>
+        </div>
+
+        <div class="w-28"></div>
+      </div>
+    </header>
+
+
+
+    <!-- Main -->
+    <div class="flex-1 overflow-y-auto p-6" style="background: #eaf5ff;">
+      <div class="max-w-[1600px] mx-auto bg-white rounded-lg shadow-xl"
+            style="background: linear-gradient(180deg, #ffffff 0%, #f4f2ff 100%);
+            box-shadow: 0 8px 30px rgba(0,0,0,0.08);">
+
+        <!-- Tabs -->
+        <div class="flex border-b border-gray-200">
+          <button id="tab-step1" class="tab-button active flex-1 py-4 px-6 font-semibold text-gray-700">🧠 Thông tin Cụm</button>
+          <button id="tab-step2" class="tab-button flex-1 py-4 px-6 font-semibold text-gray-700">📋 Tạo Dàn ý</button>
+          <button id="tab-step3" class="tab-button flex-1 py-4 px-6 font-semibold text-gray-700">🎬 Tạo Kịch bản</button>
+        </div>
+
+        <!-- STEP 1 -->
+        <div id="content-step1" class="p-8 fade-in">
+          <div class="text-center mb-8 px-4 py-3 bg-indigo-50 border-b border-indigo-100">
+            <h2 class="text-2xl font-bold" style="color: #667eea;">Thông tin Cụm Dữ kiện</h2>
+            <p class="text-gray-600">Hiển thị các claims, từ khóa và thực thể chính trong cụm</p>
+          </div>
+
+          <div id="cluster-info" class="bg-white rounded-xl shadow p-6 mb-8">
+
+            <div class="mb-4">
+              <span class="font-semibold text-gray-700">🆔 Mã cụm:</span>
+              <span id="cluster-id" class="text-indigo-600 font-semibold ml-2">—</span>
+            </div>
+
+            <div class="mb-4">
+              <span class="font-semibold text-gray-700">📌 Chủ đề:</span>
+              <span id="cluster-topic" class="text-gray-800 ml-2">—</span>
+            </div>
+
+            <div class="mb-4">
+              <span class="font-semibold text-gray-700">🧾 Tóm tắt:</span>
+              <p id="cluster-summary" class="mt-2 text-gray-700 bg-gray-50 p-3 rounded-md">—</p>
+            </div>
+
+            <div class="mb-4">
+              <span class="font-semibold text-gray-700">🔑 Từ khóa:</span>
+              <div id="cluster-keywords" class="mt-2 flex flex-wrap gap-2"></div>
+            </div>
+
+            <div class="mb-4">
+              <span class="font-semibold text-gray-700">🏷️ Thực thể:</span>
+              <div id="cluster-entities" class="mt-2 flex flex-wrap gap-2"></div>
+            </div>
+
+            <div class="mb-4">
+              <span class="font-semibold text-gray-700">🧩 Luận điểm trong cụm:</span>
+              <ul id="cluster-claims" class="mt-2 list-disc list-inside bg-gray-50 p-4 rounded-md space-y-2"></ul>
+            </div>
+
+            <div class="flex flex-wrap gap-6 mt-6 text-sm text-gray-600">
+              <div>📊 Độ tin cậy TB: <span id="cluster-reliability" class="text-green-600 font-semibold">—</span></div>
+              <div>⚖️ Xung đột: <span id="cluster-conflict" class="font-semibold">—</span></div>
+
+              <div>
+                <div class="font-semibold text-gray-700 mb-2">🔗 Nguồn bài báo:</div>
+                <ul id="cluster-sources" class="list-disc list-inside space-y-1 text-gray-700"></ul>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="text-center">
+            <button id="next-to-step2" class="mt-4 px-8 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-all font-semibold shadow-lg">
+              Tiếp tục → Tạo Dàn ý
+            </button>
+          </div>
+        </div>
+
+        <!-- STEP 2 -->
+        <div id="content-step2" class="p-8 hidden">
+          <div class="text-center mb-8 px-4 py-3 bg-indigo-50 border-b border-indigo-100">
+            <h2 class="text-2xl font-bold" style="color: #667eea;">Tạo Dàn ý &amp; Gợi ý Media</h2>
+            <p class="text-gray-600">AI sẽ tự động tạo dàn ý và gợi ý media phù hợp</p>
+          </div>
+
+          <div class="text-center mb-8">
+            <button id="generate-outline-btn"
+              class="px-8 py-4 rounded-xl font-bold text-white text-lg shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all"
+              style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+              📋 Tạo Dàn ý &amp; Gợi ý Media
+            </button>
+          </div>
+
+          <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <div class="lg:col-span-2">
+              <h3 class="text-xl font-bold mb-4" style="color: #667eea;">📝 Dàn ý (Editable)</h3>
+              <textarea id="outline-editor"></textarea>
+            </div>
+
+            <div>
+              <h3 class="text-xl font-bold mb-4" style="color: #667eea;">🎬 Gợi ý Media</h3>
+              <div id="media-suggestions" class="bg-gray-50 border border-gray-200 rounded-xl p-6 min-h-96">
+                <p class="text-center text-gray-400">Chưa có dữ liệu</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="text-center mt-8">
+            <button id="next-to-step3" class="px-8 py-3 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-all font-semibold shadow-lg">
+              Tiếp tục → Tạo Kịch bản
+            </button>
+          </div>
+        </div>
+
+        <!-- Step 3: Script Writing -->
+        <div id="content-step3" class="p-8 hidden">
+          <div class="text-center mb-8 px-4 py-3 bg-indigo-50 border-b border-indigo-100">
+            <h2 class="text-2xl font-bold mb-2" style="color: #667eea;">Tạo Kịch bản Hoàn chỉnh</h2>
+            <p class="text-gray-600">AI sẽ tự động sinh kịch bản với media tags cụ thể</p>
+          </div>
+
+          <div class="mb-6">
+            <label for="script-format" class="block text-gray-700 font-medium mb-2">Chọn định dạng kịch bản:</label>
+            <select id="script-format" class="border border-gray-300 px-4 py-2 rounded-lg w-48">
+              <option value="1">1 Cột</option>
+              <option value="2">2 Cột</option>
+              <option value="3">3 Cột (Timeline)</option>
+            </select>
+          </div>
+
+          <div class="text-center mb-8">
+            <button id="generate-script-btn"
+              class="px-8 py-4 rounded-xl font-bold text-white text-lg transition-all shadow-lg hover:shadow-xl hover:-translate-y-1"
+              style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+              🎬 Tạo Kịch bản Hoàn chỉnh
+            </button>
+          </div>
+
+          <div>
+            <h3 class="text-xl font-bold mb-4" style="color: #667eea;">📜 Kịch bản (Editable)</h3>
+            <textarea id="script-editor"></textarea>
+          </div>
+
+          <!-- ⭐ EXPORT BUTTONS ⭐ -->
+          <div class="mt-6 flex gap-4">
+            <button id="export-pdf-btn"
+              class="px-6 py-3 bg-red-600 text-white rounded-lg hover:bg-red-700 shadow font-semibold">
+              📕 Xuất PDF
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+  <script src="editor_ai.js"></script>
+
+</body>
+</html>

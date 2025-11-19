@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            box-sizing: border-box;
+        }
+        .fade-in {
+            animation: fadeIn 0.3s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .pulse-dot {
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        .line-clamp-2 {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-slate-50 to-blue-50 min-h-screen">
+    <!-- Header -->
+    <header class="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 shadow-xl border-b-4 border-purple-500">
+        <div class="max-w-7xl mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-4">
+                    <div class="w-12 h-12 bg-white bg-opacity-30 backdrop-blur-md rounded-xl flex items-center justify-center">
+                        <span class="text-white font-bold text-xl">AI</span>
+                    </div>
+                    <div>
+                        <h1 class="text-3xl font-bold text-white">News Editor</h1>
+                        <p class="text-sm text-white">Hệ thống phân tích tin tức thông minh</p>
+                    </div>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button
+                        onclick="window.location.href = 'http://127.0.0.1:8000/chatbot';"
+                        class="bg-white border border-gray-300 hover:bg-gray-50 px-5 py-2 rounded-xl font-medium shadow-md transition"
+                    >
+                        <span class="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
+                            Tạo kịch bản qua Video >
+                        </span>
+                    </button>               
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="max-w-7xl mx-auto px-6 py-8">
+        <!-- Filters & Search -->
+        <div class="bg-white rounded-xl shadow-md p-6 mb-8">
+            <div class="flex flex-wrap items-center gap-4">
+
+                <!-- Search by Title -->
+                <div class="flex-1 min-w-64">
+                    <input id="searchTitle" 
+                        type="text" 
+                        placeholder="Tìm theo tiêu đề..."
+                        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+                </div>
+
+                <!-- Filter by Topic -->
+                <select id="filterTopic"
+                        class="px-4 py-2 border border-gray-300 rounded-lg min-w-40 focus:ring-2 focus:ring-blue-500">
+                    <option value="">Chủ đề</option>
+                    <!-- Topics inserted dynamically -->
+                </select>
+
+                <!-- Filter by Keyword -->
+                <select id="filterKeyword"
+                        class="px-4 py-2 border border-gray-300 rounded-lg min-w-40 focus:ring-2 focus:ring-blue-500">
+                    <option value="">Từ khóa</option>
+                    <!-- Keywords inserted dynamically -->
+                </select>
+
+                <!-- Apply Filter -->
+                <button id="applyFilterBtn"
+                        class="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 shadow-xl border-b-4 border-purple-500 text-white px-6 py-2 rounded-lg font-medium transition-colors">
+                    Lọc
+                </button>
+
+            </div>
+        </div>
+
+        <!-- News List -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <div class="lg:col-span-2 space-y-6"></div>
+            <!-- Sidebar -->
+            <div class="space-y-6">
+                <!-- Trending Topics -->
+                <div class="bg-white rounded-xl shadow-md p-6">
+                    <h3 class="font-bold text-gray-800 mb-4">Chủ đề nổi bật</h3>
+                    <div id="trending-topic" class="space-y-3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="editor.js"></script>
+</body>
+</html>

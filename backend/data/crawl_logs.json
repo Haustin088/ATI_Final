@@ -1,0 +1,170 @@
+[
+  {
+    "time": "2025-11-19 10:19:15",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 3,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+        "added": 0,
+        "failed": 0,
+        "status": "empty"
+      },
+      {
+        "source": "https://vnexpress.net/rss/kinh-doanh.rss",
+        "added": 0,
+        "failed": 0,
+        "status": "empty"
+      },
+      {
+        "source": "https://vnexpress.net/rss/giai-tri.rss",
+        "added": 1,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 4
+  },
+  {
+    "time": "2025-11-19 09:55:31",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 47,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+        "added": 16,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/kinh-doanh.rss",
+        "added": 24,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/giai-tri.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 147
+  },
+  {
+    "time": "2025-11-17 22:19:24",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+        "added": 56,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/kinh-doanh.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 176
+  },
+  {
+    "time": "2025-11-11 14:54:00",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      },
+      {
+        "source": "https://vnexpress.net/rss/kinh-doanh.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 180
+  },
+  {
+    "time": "2025-11-06 08:51:17",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 1,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 1
+  },
+  {
+    "time": "2025-11-06 08:23:41",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 2,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 2
+  },
+  {
+    "time": "2025-11-06 07:49:14",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 52,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 52
+  },
+  {
+    "time": "2025-11-04 13:53:29",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 60
+  },
+  {
+    "time": "2025-11-02 12:34:07",
+    "results": [
+      {
+        "source": "https://vnexpress.net/rss/suc-khoe.rss",
+        "added": 60,
+        "failed": 0,
+        "status": "success"
+      }
+    ],
+    "total_new": 60
+  }
+]

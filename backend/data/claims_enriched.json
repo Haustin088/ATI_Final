@@ -1,0 +1,4645 @@
+[
+  {
+    "article_id": "a12ea5f9fc6ac8c8a2b3d3b4c1f408f9",
+    "url": "https://vnexpress.net/be-trai-11-tuoi-nuot-hat-dau-vang-10-gram-de-ren-luoi-4958563.html",
+    "text": "Tuy nhiên, sau 5 ngày liên tục kiểm tra phân của con hai lần mỗi ngày, cô vẫn không thể tìm thấy vàng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.625,
+    "entities": [
+      {
+        "label": "DATE",
+        "text": "mỗi ngày",
+        "start": 61,
+        "end": 69,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "ngày liên tục kiểm tra phân",
+      "kiểm tra phân của con",
+      "sau 5 ngày liên tục",
+      "hai lần mỗi ngày",
+      "của con hai lần",
+      "thấy vàng"
+    ]
+  },
+  {
+    "article_id": "a12ea5f9fc6ac8c8a2b3d3b4c1f408f9",
+    "url": "https://vnexpress.net/be-trai-11-tuoi-nuot-hat-dau-vang-10-gram-de-ren-luoi-4958563.html",
+    "text": "Hôm 26/10, Ji đưa con trai đến Bệnh viện Nhân dân số 5 Côn Sơn để kiểm tra, phát hiện \"vật thể lạ trong dạ dày\".",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.803,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Ji",
+        "score": 0.9991781115531921
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Bệnh viện Nhân dân số 5",
+        "score": 0.998908519744873
+      },
+      {
+        "label": "LOCATION",
+        "text": "Côn Sơn",
+        "score": 0.8315221071243286
+      },
+      {
+        "label": "DATE",
+        "text": "26/10",
+        "start": 4,
+        "end": 9,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "bệnh viện nhân dân số 5 côn sơn",
+      "trai đến bệnh viện nhân dân số",
+      "đến bệnh viện nhân dân số 5",
+      "vật thể lạ trong dạ dày",
+      "con trai đến bệnh viện",
+      "đưa con trai đến"
+    ]
+  },
+  {
+    "article_id": "a12ea5f9fc6ac8c8a2b3d3b4c1f408f9",
+    "url": "https://vnexpress.net/be-trai-11-tuoi-nuot-hat-dau-vang-10-gram-de-ren-luoi-4958563.html",
+    "text": "Cuối ngày hôm đó, hạt đậu vàng được lấy ra thành công.",
+    "topic": "Công nghệ & Khoa học",
+    "confidence": 0.55,
+    "entities": [],
+    "keywords": [
+      "hạt đậu vàng được",
+      "cuối ngày hôm đó"
+    ]
+  },
+  {
+    "article_id": "a12ea5f9fc6ac8c8a2b3d3b4c1f408f9",
+    "url": "https://vnexpress.net/be-trai-11-tuoi-nuot-hat-dau-vang-10-gram-de-ren-luoi-4958563.html",
+    "text": "Bác sĩ cảnh báo nếu ở lại quá lâu, dị vật có thể gây tắc ruột và yêu cầu gia đình tiếp tục .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.926,
+    "entities": [],
+    "keywords": [
+      "gia đình tiếp tục",
+      "yêu cầu gia đình",
+      "bác sĩ cảnh báo",
+      "dị vật có thể",
+      "cảnh báo nếu",
+      "tắc ruột"
+    ]
+  },
+  {
+    "article_id": "a12ea5f9fc6ac8c8a2b3d3b4c1f408f9",
+    "url": "https://vnexpress.net/be-trai-11-tuoi-nuot-hat-dau-vang-10-gram-de-ren-luoi-4958563.html",
+    "text": "Sau khi Ji chia sẻ câu chuyện lên mạng, nhiều người đã để lại bình luận hài hước: \"Đây là lần đi vệ sinh giá trị nhất trong lịch sử\", \"Hạt đậu vàng cuối cùng cũng đã thấy lại ánh mặt trời\".",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.717,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Ji",
+        "score": 0.9994300007820129
+      }
+    ],
+    "keywords": [
+      "giá trị nhất trong lịch sử",
+      "lần đi vệ sinh giá trị",
+      "hạt đậu vàng cuối cùng",
+      "bình luận hài hước",
+      "\" hạt đậu vàng"
+    ]
+  },
+  {
+    "article_id": "a12ea5f9fc6ac8c8a2b3d3b4c1f408f9",
+    "url": "https://vnexpress.net/be-trai-11-tuoi-nuot-hat-dau-vang-10-gram-de-ren-luoi-4958563.html",
+    "text": "Kết quả phim chụp cho thấy hạt đậu vàng trong dạ dày cậu bé 11 tuổi.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.725,
+    "entities": [],
+    "keywords": [
+      "đậu vàng trong dạ dày",
+      "vàng trong dạ dày cậu",
+      "trong dạ dày cậu bé",
+      "hạt đậu vàng trong",
+      "thấy hạt đậu vàng",
+      "dạ dày cậu bé 11"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Amanda Preisinger đang lo lắng về bữa tiệc sinh nhật lần thứ 13 sắp tới của con gái, không phải vì một ngôi nhà đầy ắp trẻ ồn ào, mà vì đây là lần đầu tiên cô ra mắt gương mặt mới của mình với bạn bè và gia đình.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.502,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Amanda Preisinger",
+        "score": 0.9993549585342407
+      }
+    ],
+    "keywords": [
+      "đầu tiên cô ra mắt gương mặt",
+      "cô ra mắt gương mặt mới",
+      "amanda preisinger đang",
+      "tiệc sinh nhật lần thứ",
+      "lần đầu tiên cô ra mắt",
+      "sinh nhật lần thứ 13",
+      "lo lắng về bữa tiệc"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Nguyên nhân đến từ \"mệt mỏi vì filler\" khi lạm dụng chất làm đầy khiến da bị giãn và chùng nhão; việc sử dụng rộng rãi thuốc giảm cân; du lịch y tế giá rẻ và sự phát triển của các kỹ thuật phẫu thuật mới được người nổi tiếng lăng xê.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.872,
+    "entities": [],
+    "keywords": [
+      "việc sử dụng rộng rãi thuốc",
+      "filler \" khi lạm dụng",
+      "khi lạm dụng chất làm",
+      "kỹ thuật phẫu thuật",
+      "nguyên nhân đến",
+      "thuốc giảm",
+      "giảm cân"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Bác sĩ phẫu thuật thẩm mỹ Rajiv Grover tại Harley Street, chuyên về kỹ thuật này, giải thích phương pháp truyền thống hơn liên quan đến việc nâng , còn phương pháp phẳng sâu sẽ giải phóng các dây chằng khuôn mặt bên dưới nó, cho phép bác sĩ phẫu thuật định hình lại khuôn mặt bằng cách di chuyển các mô sâu hơn và tránh vẻ ngoài \"căng cứng\" hay bị kéo.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.713,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Rajiv Grover",
+        "score": 0.9992052316665649
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Harley Street",
+        "score": 0.8966572284698486
+      }
+    ],
+    "keywords": [
+      "thẩm mỹ rajiv grover tại harley street",
+      "bác sĩ phẫu thuật thẩm mỹ rajiv grover",
+      "chằng khuôn mặt bên dưới",
+      "các dây chằng khuôn mặt",
+      "phương pháp phẳng"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "\"Chúng tôi không tạo sức căng lên da vì đi xuống bên dưới, đến các mô sâu hơn\", Grover phân tích.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.605,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Grover",
+        "score": 0.9941921830177307
+      }
+    ],
+    "keywords": [
+      "đi xuống bên dưới",
+      "grover phân tích",
+      "sức căng lên da",
+      "tạo sức",
+      "da vì"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Việc nâng toàn bộ lớp mô mềm như một khối thống nhất cho phép kết quả trông tự nhiên và lâu dài hơn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.508,
+    "entities": [],
+    "keywords": [
+      "khối thống nhất cho phép kết quả",
+      "toàn bộ lớp mô mềm như",
+      "việc nâng toàn bộ lớp",
+      "kết quả trông"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "\"Chúng tôi nhận được nhiều yêu cầu từ các bệnh nhân 28-35 tuổi vì lý do này\", Grover cho hay.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.671,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Grover",
+        "score": 0.986602783203125
+      },
+      {
+        "label": "DATE",
+        "text": "28-35",
+        "start": 52,
+        "end": 57,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "bệnh nhân 28-35 tuổi vì lý do",
+      "các bệnh nhân 28-35 tuổi",
+      "nhiều yêu cầu",
+      "lý do này"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Trường hợp của Preisinger, người vừa thực hiện ca phẫu thuật 16.500 bảng (hơn 578 triệu đồng) tại Thổ Nhĩ Kỳ, là một minh chứng cho xu hướng này nhưng không phải vì chống lão hóa.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.506,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Preisinger",
+        "score": 0.9854640364646912
+      },
+      {
+        "label": "LOCATION",
+        "text": "Thổ Nhĩ Kỳ",
+        "score": 0.9992523789405823
+      }
+    ],
+    "keywords": [
+      "minh chứng cho xu hướng này",
+      "trường hợp của preisinger",
+      "tại thổ nhĩ kỳ",
+      "ca phẫu thuật",
+      "chống lão",
+      "lão hóa",
+      "đồng )"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Cô chưa bao giờ có ý định căng da mặt nhưng nhiều năm sử dụng chất làm đầy trong nỗ lực \"cân bằng khuôn mặt\" nhưng bị hỏng.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.513,
+    "entities": [],
+    "keywords": [
+      "nỗ lực \" cân bằng khuôn mặt",
+      "nhiều năm sử dụng chất",
+      "ý định căng da mặt",
+      "da mặt nhưng nhiều",
+      "có ý định căng da",
+      "căng da mặt nhưng"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "\"Các nghiên cứu chỉ ra rằng chúng không chỉ hiếm khi tan hoàn toàn mà còn di chuyển và có thể làm tắc nghẽn các kênh bạch huyết\", bác sĩ Grover giải thích.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.814,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Grover",
+        "score": 0.9983313083648682
+      }
+    ],
+    "keywords": [
+      "bác sĩ grover giải thích",
+      "các kênh bạch huyết \"",
+      "các nghiên cứu",
+      "không chỉ hiếm"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Ban đầu, Preisinger chỉ lên kế hoạch phẫu thuật mí mắt nhưng bác sĩ khuyên căng da mặt là giải pháp phù hợp cho tình trạng da chùng của cô.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.767,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Preisinger",
+        "score": 0.9930906295776367
+      }
+    ],
+    "keywords": [
+      "preisinger chỉ lên kế hoạch",
+      "tình trạng da chùng của cô",
+      "lên kế hoạch phẫu thuật mí",
+      "cho tình trạng da chùng",
+      "bác sĩ khuyên căng da",
+      "da mặt là giải pháp",
+      "khuyên căng da mặt"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Một ngày trước ca phẫu thuật, Preisinger quyết định thêm thủ thuật nâng môi.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.682,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Preisinger",
+        "score": 0.9963971972465515
+      }
+    ],
+    "keywords": [
+      "ngày trước ca phẫu thuật",
+      "thêm thủ thuật nâng môi",
+      "preisinger quyết định",
+      "một ngày trước ca"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "\"Sau đó, bác sĩ nói: 'Chúng ta sẽ nâng bọng mắt'.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.883,
+    "entities": [],
+    "keywords": [
+      "bác sĩ nói",
+      "' chúng ta",
+      "bọng mắt",
+      "mắt '",
+      "\" sau"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Tuy nhiên, các bác sĩ cũng cảnh báo về rủi ro đạo đức khi phẫu thuật cho người quá trẻ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.799,
+    "entities": [],
+    "keywords": [
+      "rủi ro đạo đức khi phẫu thuật",
+      "đạo đức khi phẫu thuật cho",
+      "khi phẫu thuật cho người",
+      "về rủi ro đạo đức khi",
+      "bác sĩ cũng",
+      "các bác sĩ"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "\"Khi bạn đang xem xét việc làm đẹp cho những người ở độ tuổi 20 hoặc đầu 30 mà trông hoàn toàn ổn, bạn có nguy cơ phẫu thuật cho những người có vấn đề sâu xa hơn\", bác sĩ Orfaniotis nói.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.761,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Orfaniotis",
+        "score": 0.997227668762207
+      }
+    ],
+    "keywords": [
+      "bạn có nguy cơ phẫu thuật",
+      "bác sĩ orfaniotis nói",
+      "tuổi 20 hoặc đầu",
+      "độ tuổi 20 hoặc",
+      "ở độ tuổi 20",
+      "việc làm đẹp"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Dù vậy, đối với một số trường hợp, phẫu thuật căng da mặt thực sự mang lại giá trị y tế.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.696,
+    "entities": [],
+    "keywords": [
+      "phẫu thuật căng da mặt",
+      "mang lại giá trị y tế",
+      "căng da mặt thực sự",
+      "da mặt thực sự mang"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Amy Endean, 34 tuổi, bị tai nạn xe hơi năm 16 tuổi làm vỡ nát bên trái khuôn mặt.",
+    "topic": "Tai nạn & An toàn",
+    "confidence": 0.604,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Amy Endean",
+        "score": 0.9993113875389099
+      },
+      {
+        "label": "DATE",
+        "text": "năm 16",
+        "start": 39,
+        "end": 45,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "nát bên trái khuôn mặt",
+      "tai nạn xe hơi năm 16",
+      "bị tai nạn xe hơi năm",
+      "xe hơi năm 16 tuổi",
+      "34 tuổi"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Về phần Preisinger, cô đang tuân thủ một chế độ hậu phẫu nghiêm ngặt gồm lăn đá và massage mặt, với hy vọng vết sưng sẽ sớm bắt đầu xẹp xuống.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.608,
+    "entities": [],
+    "keywords": [
+      "một chế độ hậu phẫu nghiêm ngặt",
+      "với hy vọng vết sưng",
+      "hy vọng vết sưng sẽ",
+      "đá và massage mặt"
+    ]
+  },
+  {
+    "article_id": "c47b2ef068f43b463a66914c2527f22e",
+    "url": "https://vnexpress.net/mat-bien-dang-vi-filler-co-gai-30-tuoi-chi-nua-ty-dong-lam-lai-tu-dau-4958786.html",
+    "text": "Trong 6-8 tháng nữa, Preisinger sẽ trở lại Istanbul để tái khám.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.56,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Preisinger",
+        "score": 0.9985189437866211
+      },
+      {
+        "label": "LOCATION",
+        "text": "Istanbul",
+        "score": 0.9989604949951172
+      },
+      {
+        "label": "DATE",
+        "text": "6-8",
+        "start": 6,
+        "end": 9,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "trong 6-8 tháng nữa",
+      "trở lại istanbul",
+      "preisinger sẽ",
+      "tái khám"
+    ]
+  },
+  {
+    "article_id": "7984e0d2d75d700e1a059b6356da7045",
+    "url": "https://vnexpress.net/be-trai-3-tuoi-tu-vong-vi-nghen-hat-tran-chau-trong-tra-sua-4959698.html",
+    "text": "Video cho thấy cậu bé uống một ngụm trà sữa trân châu do mẹ mua ngay trước khi chạy vào chơi trên tấm bạt lò xo.",
+    "topic": "Trẻ em & Giáo dục",
+    "confidence": 0.721,
+    "entities": [],
+    "keywords": [
+      "ngụm trà sữa trân châu",
+      "trà sữa trân châu do",
+      "sữa trân châu do mẹ",
+      "trân châu do mẹ mua",
+      "bé uống một ngụm",
+      "một ngụm trà sữa",
+      "cậu bé uống một"
+    ]
+  },
+  {
+    "article_id": "7984e0d2d75d700e1a059b6356da7045",
+    "url": "https://vnexpress.net/be-trai-3-tuoi-tu-vong-vi-nghen-hat-tran-chau-trong-tra-sua-4959698.html",
+    "text": "Chỉ một phút sau, bé đột ngột ngất đi.",
+    "topic": "Trẻ em & Giáo dục",
+    "confidence": 0.728,
+    "entities": [],
+    "keywords": [
+      "bé đột ngột",
+      "phút sau"
+    ]
+  },
+  {
+    "article_id": "7984e0d2d75d700e1a059b6356da7045",
+    "url": "https://vnexpress.net/be-trai-3-tuoi-tu-vong-vi-nghen-hat-tran-chau-trong-tra-sua-4959698.html",
+    "text": "Gia đình đưa bé đến bệnh viện song các bác sĩ thông báo bé đã tử vong trước đó.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.717,
+    "entities": [],
+    "keywords": [
+      "các bác sĩ thông báo bé",
+      "bác sĩ thông báo bé đã",
+      "bé đến bệnh viện song",
+      "đưa bé đến bệnh viện",
+      "gia đình đưa bé đến",
+      "tử vong trước"
+    ]
+  },
+  {
+    "article_id": "7984e0d2d75d700e1a059b6356da7045",
+    "url": "https://vnexpress.net/be-trai-3-tuoi-tu-vong-vi-nghen-hat-tran-chau-trong-tra-sua-4959698.html",
+    "text": "Người già và trẻ em nên uống dưới sự giám sát\".",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.543,
+    "entities": [],
+    "keywords": [
+      "người già và trẻ em",
+      "sự giám sát",
+      "trẻ em nên",
+      "dưới sự"
+    ]
+  },
+  {
+    "article_id": "7984e0d2d75d700e1a059b6356da7045",
+    "url": "https://vnexpress.net/be-trai-3-tuoi-tu-vong-vi-nghen-hat-tran-chau-trong-tra-sua-4959698.html",
+    "text": "Luật sư Zhao Liangshan thuộc hãng luật Shaanxi Hengda nhận định, về mặt pháp lý, người giám hộ phải chịu trách nhiệm chính do không hoàn thành nghĩa vụ chăm sóc.",
+    "topic": "Xã hội & Pháp luật",
+    "confidence": 0.611,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Zhao Liangshan",
+        "score": 0.9991591572761536
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Shaanxi Hengda",
+        "score": 0.9979404211044312
+      }
+    ],
+    "keywords": [
+      "hãng luật shaanxi hengda nhận định",
+      "luật sư zhao liangshan thuộc hãng",
+      "thuộc hãng luật shaanxi hengda",
+      "zhao liangshan thuộc hãng luật",
+      "giám hộ phải chịu trách nhiệm",
+      "trách nhiệm chính",
+      "người giám hộ"
+    ]
+  },
+  {
+    "article_id": "7984e0d2d75d700e1a059b6356da7045",
+    "url": "https://vnexpress.net/be-trai-3-tuoi-tu-vong-vi-nghen-hat-tran-chau-trong-tra-sua-4959698.html",
+    "text": "Các chuyên gia y tế từ lâu đã cảnh báo hạt trân châu có thể gây nghẹn ngay cả với người lớn nếu không được nhai kỹ trước khi nuốt.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.821,
+    "entities": [],
+    "keywords": [
+      "cảnh báo hạt trân châu có thể",
+      "hạt trân châu có thể gây",
+      "các chuyên gia y tế",
+      "với người lớn"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "Ngày 4/11, Trung tâm Y tế khu vực Cẩm Khê cho biết bệnh nhân được người thân phát hiện trong tình trạng gọi hỏi không đáp, đại tiểu tiện không tự chủ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.73,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Trung tâm Y tế khu vực",
+        "score": 0.9880232810974121
+      },
+      {
+        "label": "LOCATION",
+        "text": "Cẩm Khê",
+        "score": 0.8366796970367432
+      },
+      {
+        "label": "DATE",
+        "text": "Ngày 4",
+        "start": 0,
+        "end": 6,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "4/11",
+        "start": 5,
+        "end": 9,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "người thân phát hiện trong tình trạng",
+      "bệnh nhân được người thân phát hiện",
+      "trung tâm y tế khu vực cẩm khê",
+      "biết bệnh nhân được người thân",
+      "cẩm khê cho biết bệnh nhân",
+      "y tế khu vực cẩm khê cho",
+      "khu vực cẩm khê cho biết",
+      "tiểu tiện không"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "Kết quả chụp chiếu ban đầu cho thấy bệnh nhân có dấu hiệu tổn thương não, chưa loại trừ khả năng viêm màng não, đang trong tình trạng nguy kịch.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.697,
+    "entities": [],
+    "keywords": [
+      "bệnh nhân có dấu hiệu tổn thương",
+      "có dấu hiệu tổn thương não",
+      "ban đầu cho thấy bệnh nhân",
+      "khả năng viêm màng não"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "Các bác sĩ nhận định việc tự ý dùng nhiều loại thuốc không rõ thành phần có thể gây tương tác, ngộ độc hoặc làm nặng thêm bệnh lý nền, đặc biệt ở người cao tuổi.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.828,
+    "entities": [],
+    "keywords": [
+      "bác sĩ nhận định việc tự ý",
+      "thuốc không rõ thành phần",
+      "nhiều loại thuốc không",
+      "dùng nhiều loại thuốc",
+      "loại thuốc không rõ",
+      "ngộ độc hoặc"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "Sau khi được sơ cứu, bệnh nhân được chuyển lên tuyến trên .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.572,
+    "entities": [],
+    "keywords": [
+      "sau khi được sơ cứu",
+      "bệnh nhân được",
+      "lên tuyến trên"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "\"Thuốc trôi nổi, không nhãn mác có thể chứa tạp chất, sai lệch hàm lượng hoạt chất, gây ngộ độc cấp tính, suy thận, xuất huyết tiêu hóa hoặc sốc phản vệ\", bà nói.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.798,
+    "entities": [],
+    "keywords": [
+      "sai lệch hàm lượng hoạt chất",
+      "xuất huyết tiêu hóa hoặc sốc",
+      "ngộ độc cấp tính",
+      "nhãn mác có thể",
+      "thuốc trôi nổi",
+      "tạp chất"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "Hơn chục loại thuốc không nhãn mác bệnh nhân tự ý sử dụng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.694,
+    "entities": [],
+    "keywords": [
+      "thuốc không nhãn mác bệnh nhân",
+      "loại thuốc không nhãn mác",
+      "nhãn mác bệnh nhân tự ý",
+      "chục loại thuốc không",
+      "hơn chục loại thuốc"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "Tự ý dùng thuốc còn khiến người bệnh không kiểm soát được thành phần và liều lượng, dẫn đến tương tác thuốc nguy hiểm, nhất là với người cao tuổi, phụ nữ mang thai hoặc bệnh nhân mắc bệnh mạn tính như tim mạch, tiểu đường.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.758,
+    "entities": [],
+    "keywords": [
+      "bệnh nhân mắc bệnh mạn tính",
+      "thuốc còn khiến người bệnh",
+      "tương tác thuốc nguy hiểm",
+      "dùng thuốc"
+    ]
+  },
+  {
+    "article_id": "fa79ff449fdc749cf8d116723dfba89a",
+    "url": "https://vnexpress.net/nguy-kich-sau-khi-tu-dung-hon-10-loai-thuoc-khong-nhan-mac-4959658.html",
+    "text": "Trước khi dùng, cần kiểm tra kỹ bao bì, nhãn mác, hạn dùng và số đăng ký, đồng thời tuân thủ đúng hướng dẫn của cán bộ y tế.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.79,
+    "entities": [],
+    "keywords": [
+      "tuân thủ đúng hướng dẫn của",
+      "hướng dẫn của cán bộ y tế",
+      "hạn dùng và số đăng ký",
+      "nhãn mác",
+      "bao bì"
+    ]
+  },
+  {
+    "article_id": "07648923de417f14103558ab862d88ac",
+    "url": "https://vnexpress.net/be-trai-12-tuoi-bi-moc-cau-ca-cua-ban-dam-thung-mat-4959572.html",
+    "text": "Bệnh nhi 12 tuổi ở An Giang bị móc câu của bạn đâm xuyên nhãn cầu trái khi đi câu cá, được bác sĩ Bệnh viện Mắt phẫu thuật khẩn cấp, thoát nguy cơ phải bỏ mắt.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.852,
+    "entities": [
+      {
+        "label": "LOCATION",
+        "text": "An Giang",
+        "score": 0.9991315007209778
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Bệnh viện Mắt",
+        "score": 0.9991444945335388
+      }
+    ],
+    "keywords": [
+      "bệnh viện mắt phẫu thuật khẩn cấp",
+      "nhãn cầu trái khi đi",
+      "bệnh nhi 12 tuổi ở"
+    ]
+  },
+  {
+    "article_id": "07648923de417f14103558ab862d88ac",
+    "url": "https://vnexpress.net/be-trai-12-tuoi-bi-moc-cau-ca-cua-ban-dam-thung-mat-4959572.html",
+    "text": "Ngày 4/11.CK2 Võ Đức Dũng, Trưởng Khoa Mắt Nhi, Bệnh viện Mắt , cho biết bệnh nhi nhập viện với mắt trái sưng to, có móc câu mắc vào nhãn cầu.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.814,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Võ Đức Dũng",
+        "score": 0.999396800994873
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Khoa Mắt Nhi, Bệnh viện Mắt",
+        "score": 0.965239942073822
+      },
+      {
+        "label": "DATE",
+        "text": "Ngày 4",
+        "start": 0,
+        "end": 6,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "4/11",
+        "start": 5,
+        "end": 9,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "bệnh nhi nhập viện với mắt",
+      "câu mắc vào nhãn cầu",
+      "trưởng khoa mắt nhi",
+      "mắt trái sưng to",
+      "bệnh viện mắt"
+    ]
+  },
+  {
+    "article_id": "07648923de417f14103558ab862d88ac",
+    "url": "https://vnexpress.net/be-trai-12-tuoi-bi-moc-cau-ca-cua-ban-dam-thung-mat-4959572.html",
+    "text": "Sau đó bé mờ mắt, đau nhức, được sơ cứu tại Bệnh viện Đa khoa Châu Đốc rồi chuyển khẩn đến .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.703,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Bệnh viện Đa khoa Châu Đốc",
+        "score": 0.9993730187416077
+      }
+    ],
+    "keywords": [
+      "tại bệnh viện đa khoa châu đốc",
+      "bệnh viện đa khoa châu đốc rồi",
+      "sơ cứu tại bệnh viện đa khoa",
+      "sau đó bé mờ mắt"
+    ]
+  },
+  {
+    "article_id": "07648923de417f14103558ab862d88ac",
+    "url": "https://vnexpress.net/be-trai-12-tuoi-bi-moc-cau-ca-cua-ban-dam-thung-mat-4959572.html",
+    "text": "Quá trình mổ xác định được đường ra của lưỡi câu, bác sĩ khâu phục hồi củng mạc, nhờ đó bảo tồn được nhãn cầu mắt trái.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.731,
+    "entities": [],
+    "keywords": [
+      "bác sĩ khâu phục hồi củng mạc",
+      "nhãn cầu mắt trái",
+      "đường ra của lưỡi",
+      "ra của lưỡi câu",
+      "quá trình mổ"
+    ]
+  },
+  {
+    "article_id": "07648923de417f14103558ab862d88ac",
+    "url": "https://vnexpress.net/be-trai-12-tuoi-bi-moc-cau-ca-cua-ban-dam-thung-mat-4959572.html",
+    "text": "Các bác sĩ phẫu thuật cấp cứu lấy dị vật móc câu cho bé.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.655,
+    "entities": [],
+    "keywords": [
+      "lấy dị vật móc câu",
+      "dị vật móc câu cho",
+      "bác sĩ phẫu thuật",
+      "móc câu cho bé",
+      "các bác sĩ"
+    ]
+  },
+  {
+    "article_id": "07648923de417f14103558ab862d88ac",
+    "url": "https://vnexpress.net/be-trai-12-tuoi-bi-moc-cau-ca-cua-ban-dam-thung-mat-4959572.html",
+    "text": "Khi xảy ra tai nạn, tuyệt đối không tự gỡ mà nên giữ nguyên vị trí móc và nhanh chóng đưa nạn nhân đến cơ sở chuyên khoa mắt gần nhất để được xử trí kịp thời.",
+    "topic": "Tai nạn & An toàn",
+    "confidence": 0.958,
+    "entities": [],
+    "keywords": [
+      "nạn nhân đến cơ sở chuyên khoa",
+      "đến cơ sở chuyên khoa mắt",
+      "cơ sở chuyên khoa mắt gần",
+      "đưa nạn nhân đến cơ sở",
+      "khi xảy ra tai nạn",
+      "xử trí kịp thời",
+      "vị trí móc"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Để xây dựng Sam, nhóm chuyên gia đã tổng hợp dữ liệu từ Tổ chức Y tế Thế giới , Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ và nhiều .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.682,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Sam",
+        "score": 0.9165295362472534
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Tổ chức Y tế Thế giới",
+        "score": 0.9995201230049133
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ",
+        "score": 0.9994298815727234
+      }
+    ],
+    "keywords": [
+      "nhóm chuyên gia đã tổng hợp",
+      "phòng ngừa dịch bệnh mỹ và",
+      "từ tổ chức y tế thế giới",
+      "dữ liệu từ tổ chức y tế"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Thói quen này, cộng với hàng giờ lướt mạng xã hội, đang khiến con người dành lượng thời gian ngồi sau màn hình nhiều bất thường.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.97,
+    "entities": [],
+    "keywords": [
+      "con người dành lượng thời gian",
+      "sau màn hình nhiều bất thường",
+      "thời gian ngồi sau màn hình",
+      "hàng giờ lướt mạng xã hội",
+      "lượng thời gian ngồi sau",
+      "ngồi sau màn hình nhiều"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Việc ngồi lâu hoặc cúi gập người trước màn hình làm đầu có xu hướng nghiêng về phía trước và lưng trên bị cong, gây ra triệu chứng \"cổ công nghệ\" (tech neck).",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.657,
+    "entities": [],
+    "keywords": [
+      "triệu chứng \" cổ công nghệ",
+      "gập người trước màn hình",
+      "người trước màn hình làm",
+      "trước màn hình làm đầu"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Tình trạng này dẫn đến đau mỏi cổ và vai mạn tính, vốn là nguyên nhân gây tàn tật phổ biến thứ 4 .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.714,
+    "entities": [],
+    "keywords": [
+      "gây tàn tật phổ biến thứ",
+      "tàn tật phổ biến thứ 4",
+      "dẫn đến đau mỏi cổ",
+      "cổ và vai mạn tính"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Khi cơ thể không hoạt động, quá trình trao đổi chất chậm lại và đốt cháy ít calo hơn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.652,
+    "entities": [],
+    "keywords": [
+      "quá trình trao đổi chất chậm",
+      "khi cơ thể không hoạt động"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Năng lượng dư thừa sẽ tích tụ dưới dạng mỡ, đặc biệt quanh vùng bụng, làm tăng nguy cơ béo phì, tiểu đường và bệnh tim.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.766,
+    "entities": [],
+    "keywords": [
+      "đặc biệt quanh vùng bụng",
+      "tiểu đường và bệnh tim",
+      "tích tụ dưới dạng mỡ",
+      "năng lượng dư thừa"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Lối sống tĩnh tại còn làm giảm lưu thông máu, khiến da không nhận đủ oxy và dưỡng chất, dẫn đến da xỉn màu và xuất hiện quầng thâm quanh mắt.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.789,
+    "entities": [],
+    "keywords": [
+      "xuất hiện quầng thâm quanh",
+      "quầng thâm quanh mắt",
+      "đến da xỉn màu",
+      "da xỉn màu và",
+      "lưu thông máu",
+      "dưỡng chất"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Các biến chứng khác có thể bao gồm suy giãn tĩnh mạch và nguy cơ hình thành cục máu đông.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.682,
+    "entities": [],
+    "keywords": [
+      "tĩnh mạch và nguy cơ hình thành",
+      "suy giãn tĩnh mạch và nguy cơ",
+      "nguy cơ hình thành cục máu",
+      "hình thành cục máu đông",
+      "bao gồm suy giãn",
+      "biến chứng khác",
+      "các biến chứng"
+    ]
+  },
+  {
+    "article_id": "d519be5ec4c3cf3db9410c51605aa38d",
+    "url": "https://vnexpress.net/tuong-lai-gu-lung-beo-phi-cua-the-he-ngoi-mot-cho-4959402.html",
+    "text": "Ngoài ra, thói quen lười vận động còn liên quan đến tỷ lệ căng thẳng, lo âu, trầm cảm cao hơn và làm tăng rủi ro mắc một số bệnh ung thư (ruột kết, phổi, tử cung), bệnh tim mạch và cao huyết áp.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.862,
+    "entities": [],
+    "keywords": [
+      "tim mạch và cao huyết áp",
+      "mắc một số bệnh ung thư",
+      "một số bệnh ung thư (",
+      "bệnh tim mạch và cao",
+      "trầm cảm cao"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "\"Tôi liên tục cắn môi và cắn bên trong má mình\", Maria kể lại.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.526,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Maria",
+        "score": 0.9993849992752075
+      }
+    ],
+    "keywords": [
+      "bên trong má mình",
+      "cắn bên trong má",
+      "cắn môi"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Tình hình trở nên nghiêm trọng khi ít nhất ba học sinh phải nhập viện.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.595,
+    "entities": [],
+    "keywords": [
+      "tình hình trở nên nghiêm trọng khi",
+      "khi ít nhất ba học sinh",
+      "học sinh phải"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Đầu năm nay, các nhà báo tại tờ Izvestiya của Nga đã gửi mẫu thuốc mua trực tuyến đi xét nghiệm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.591,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Izvestiya",
+        "score": 0.9983162879943848
+      },
+      {
+        "label": "LOCATION",
+        "text": "Nga",
+        "score": 0.996828019618988
+      }
+    ],
+    "keywords": [
+      "nhà báo tại tờ izvestiya",
+      "mẫu thuốc mua trực tuyến",
+      "thuốc mua trực tuyến đi",
+      "tờ izvestiya của nga",
+      "gửi mẫu thuốc mua",
+      "đã gửi mẫu thuốc"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Kết quả đã vạch trần một sự thật đáng báo động là chúng chứa sibutramine.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.674,
+    "entities": [],
+    "keywords": [
+      "sự thật đáng",
+      "một sự thật",
+      "kết quả đã",
+      "vạch trần"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Tuy nhiên, một nghiên cứu được công bố trên Tạp chí Y học New England năm 2010, với sự tham gia của khoảng 10.000 bệnh nhân, đã phát hiện ra rằng sibutramine làm tăng đáng kể nguy cơ đau tim và đột quỵ không tử vong ở những người có tiền sử bệnh tim mạch.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.687,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "chí Y học New England",
+        "score": 0.8928120732307434
+      },
+      {
+        "label": "DATE",
+        "text": "năm 2010",
+        "start": 70,
+        "end": 78,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "2010",
+        "start": 74,
+        "end": 78,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "trên tạp chí y học new england",
+      "đáng kể nguy cơ đau tim",
+      "tiền sử bệnh tim mạch",
+      "nguy cơ đau tim và",
+      "có tiền sử bệnh",
+      "đột quỵ không"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Phát hiện này đã dẫn đến việc Cơ quan Quản lý Thực phẩm và Dược phẩm Mỹ ra lệnh cấm lưu hành sibutramine ngay trong năm đó.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.877,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Cơ quan Quản lý Thực phẩm và Dược phẩm Mỹ",
+        "score": 0.9752119779586792
+      }
+    ],
+    "keywords": [
+      "ra lệnh cấm lưu hành sibutramine",
+      "việc cơ quan quản lý thực phẩm",
+      "cơ quan quản lý thực phẩm và",
+      "thực phẩm và dược phẩm mỹ",
+      "dược phẩm mỹ ra lệnh cấm"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Tại Nga, sibutramine vẫn được xếp vào danh mục thuốc kê đơn nghiêm ngặt, chỉ dành cho người lớn điều trị béo phì dưới sự giám sát y tế chặt chẽ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.571,
+    "entities": [
+      {
+        "label": "LOCATION",
+        "text": "Nga",
+        "score": 0.9929732084274292
+      }
+    ],
+    "keywords": [
+      "điều trị béo phì dưới sự",
+      "thuốc kê đơn nghiêm ngặt",
+      "xếp vào danh mục thuốc",
+      "vào danh mục thuốc kê",
+      "danh mục thuốc kê đơn",
+      "người lớn điều trị",
+      "sibutramine vẫn"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Việc mua bán chất này mà không có đơn là một tội hình sự.",
+    "topic": "Xã hội & Pháp luật",
+    "confidence": 0.564,
+    "entities": [],
+    "keywords": [
+      "việc mua bán chất này",
+      "là một tội hình sự"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "\"Việc tự ý sử dụng loại thuốc này cực kỳ nguy hiểm\", bác sĩ nội tiết Ksenia Solovieva từ St.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.769,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Ksenia Solovieva",
+        "score": 0.9993643760681152
+      }
+    ],
+    "keywords": [
+      "bác sĩ nội tiết ksenia solovieva",
+      "nội tiết ksenia solovieva từ",
+      "tự ý sử dụng loại thuốc",
+      "sử dụng loại thuốc này",
+      "việc tự ý sử dụng loại",
+      "loại thuốc này cực kỳ"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "\"Chúng ta không biết những loại 'thực phẩm bổ sung' như vậy chứa bao nhiêu hoạt chất\".",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.526,
+    "entities": [],
+    "keywords": [
+      "loại ' thực phẩm bổ sung",
+      "những loại ' thực phẩm",
+      "' thực phẩm bổ sung '",
+      "biết những loại '",
+      "hoạt chất \""
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Moleculem chứa sibutramin, chất bị cấm ở nhiều quốc gia như Mỹ, Anh, Trung Quốc. .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.513,
+    "entities": [
+      {
+        "label": "LOCATION",
+        "text": "Mỹ",
+        "score": 0.9994511008262634
+      },
+      {
+        "label": "LOCATION",
+        "text": "Anh",
+        "score": 0.9994978904724121
+      },
+      {
+        "label": "LOCATION",
+        "text": "Trung Quốc",
+        "score": 0.9993641376495361
+      }
+    ],
+    "keywords": [
+      "moleculem chứa",
+      "nhiều quốc gia",
+      "quốc gia như"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Sau khi uống quá nhiều thuốc Molecule, cô đã phải nhập viện.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.799,
+    "entities": [],
+    "keywords": [
+      "sau khi uống quá",
+      "thuốc molecule",
+      "nhiều thuốc",
+      "cô đã"
+    ]
+  },
+  {
+    "article_id": "47946df1acf45c1b94c26f37c3362acc",
+    "url": "https://vnexpress.net/nguoi-tre-nga-hoang-loan-ao-giac-sau-dung-than-duoc-giam-can-4959351.html",
+    "text": "Tuy nhiên, Molecule vẫn tiếp tục phổ biến trên mạng.",
+    "topic": "Công nghệ & Khoa học",
+    "confidence": 0.642,
+    "entities": [],
+    "keywords": [
+      "molecule vẫn",
+      "trên mạng"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Cà rốt chứa nhiều chất dinh dưỡng, chất chống oxy hóa, có thể hỗ trợ sức khỏe mắt, phòng bệnh tim và ung thư.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.839,
+    "entities": [],
+    "keywords": [
+      "phòng bệnh tim và ung thư",
+      "cà rốt chứa nhiều chất",
+      "hỗ trợ sức khỏe mắt",
+      "chất dinh dưỡng"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Cà rốt giòn, ngon, ít calo và rất bổ dưỡng, cung cấp beta-carotene, chất xơ, vitamin K1, kali, chất chống oxy hóa dồi dào.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.688,
+    "entities": [],
+    "keywords": [
+      "cà rốt giòn",
+      "hóa dồi dào",
+      "vitamin k1",
+      "chất chống",
+      "chất xơ"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Màu cam của cà rốt nhờ beta-carotene, một chất chống oxy hóa mà cơ thể chuyển hóa thành vitamin A.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.712,
+    "entities": [],
+    "keywords": [
+      "hóa mà cơ thể chuyển",
+      "màu cam của cà rốt",
+      "cam của cà rốt nhờ",
+      "chất chống",
+      "vitamin a"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Giàu dinh dưỡng Hàm lượng nước của cà rốt dao động từ 86% đến 95%.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.667,
+    "entities": [],
+    "keywords": [
+      "giàu dinh dưỡng hàm lượng nước",
+      "dinh dưỡng hàm lượng nước của",
+      "hàm lượng nước của cà rốt",
+      "nước của cà rốt dao động"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "100 g cà rốt gồm: Calo: 41 Nước: 89% Protein : 0,8 g Carbohydrate: 9,0 g Chất xơ: 2,7 g Chất béo: 0,1 g Carbohydrate Cà rốt chủ yếu bao gồm nước và carbohydrate .",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.714,
+    "entities": [],
+    "keywords": [
+      "carbohydrate cà rốt chủ yếu bao gồm",
+      "cà rốt chủ yếu bao gồm nước",
+      "g carbohydrate",
+      "89 % protein",
+      "cà rốt gồm",
+      "g cà rốt"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Ngoài ra còn có tinh bột và đường như sucrose và glucose.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.651,
+    "entities": [],
+    "keywords": [
+      "tinh bột và đường như",
+      "có tinh bột và đường",
+      "đường như sucrose và"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Cà rốt thường có chỉ số đường huyết thấp. là thước đo tốc độ làm tăng lượng đường trong máu sau bữa ăn của thực phẩm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.637,
+    "entities": [],
+    "keywords": [
+      "có chỉ số đường huyết thấp",
+      "tăng lượng đường trong",
+      "lượng đường trong máu",
+      "đường trong máu sau"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Chỉ số đường huyết của cà rốt dao động từ 30 đến 85, trong khi tải lượng đường huyết dao động từ 2,0 đến 4,25.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.594,
+    "entities": [],
+    "keywords": [
+      "đường huyết của cà rốt dao động",
+      "tải lượng đường huyết dao động",
+      "chỉ số đường huyết của cà rốt",
+      "lượng đường huyết dao động từ",
+      "khi tải lượng đường huyết"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Chỉ số này thấp nhất đối với cà rốt sống và cao hơn đối với cà rốt nấu chín.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.528,
+    "entities": [],
+    "keywords": [
+      "cà rốt sống",
+      "cà rốt nấu",
+      "chỉ số này"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Ăn thực phẩm có chỉ số đường huyết thấp mang lại nhiều lợi ích cho sức khỏe và có lợi cho người mắc bệnh tiểu đường.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.726,
+    "entities": [],
+    "keywords": [
+      "chỉ số đường huyết thấp mang",
+      "có chỉ số đường huyết thấp",
+      "đường huyết thấp mang lại",
+      "thực phẩm có chỉ số đường",
+      "người mắc bệnh tiểu đường"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Chất xơ Pectin là dạng chất xơ hòa tan chính trong cà rốt, có thể làm giảm lượng đường trong máu bằng cách làm chậm quá trình tiêu hóa đường và tinh bột.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.535,
+    "entities": [],
+    "keywords": [
+      "xơ pectin là dạng chất",
+      "chất xơ pectin là dạng",
+      "giảm lượng đường trong",
+      "chất xơ hòa tan chính",
+      "làm giảm lượng đường"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Một số chất xơ hòa tan làm giảm sự hấp thụ cholesterol từ đường tiêu hóa, nhờ đó giảm cholesterol trong máu.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.76,
+    "entities": [],
+    "keywords": [
+      "cholesterol từ đường tiêu hóa",
+      "hấp thụ cholesterol từ đường",
+      "giảm cholesterol trong máu",
+      "một số chất xơ hòa tan",
+      "chất xơ hòa tan làm"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Các chất xơ không hòa tan chính trong cà rốt là cellulose, hemicellulose và lignin.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.6,
+    "entities": [],
+    "keywords": [
+      "chất xơ không hòa",
+      "các chất xơ không",
+      "cà rốt là",
+      "hòa tan"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Chất xơ không hòa tan có thể phòng tránh táo bón , thúc đẩy nhu động ruột đều đặn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.685,
+    "entities": [],
+    "keywords": [
+      "phòng tránh táo bón",
+      "chất xơ không",
+      "nhu động ruột",
+      "ruột đều đặn",
+      "hòa tan"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Vitamin A tốt cho mắt và rất quan trọng cho sự tăng trưởng, phát triển, chức năng miễn dịch.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.805,
+    "entities": [],
+    "keywords": [
+      "chức năng miễn dịch",
+      "sự tăng trưởng",
+      "vitamin a tốt",
+      "a tốt cho mắt"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Vitamin B7, B6 tham gia vào quá trình chuyển hóa thức ăn, chất béo, protein thành năng lượng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.737,
+    "entities": [],
+    "keywords": [
+      "quá trình chuyển hóa thức ăn",
+      "b6 tham gia vào quá trình",
+      "protein thành",
+      "vitamin b7"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Vitamin K1 cần thiết cho quá trình đông máu, có thể thúc đẩy sức khỏe của xương còn kali giúp kiểm soát huyết áp .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.726,
+    "entities": [],
+    "keywords": [
+      "kali giúp kiểm soát huyết áp",
+      "thúc đẩy sức khỏe của xương",
+      "k1 cần thiết cho quá trình",
+      "cho quá trình đông máu",
+      "vitamin k1 cần thiết"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Đây là những chất có hoạt tính chống oxy hóa mạnh mẽ, có liên quan đến cải thiện chức năng miễn dịch và giảm nguy cơ mắc nhiều bệnh, bao gồm bệnh tim, các bệnh thoái hóa khác nhau cùng một số loại ung thư.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.747,
+    "entities": [],
+    "keywords": [
+      "hoạt tính chống oxy hóa mạnh mẽ",
+      "miễn dịch và giảm nguy cơ",
+      "cùng một số loại ung thư",
+      "chất có hoạt tính chống",
+      "các bệnh thoái hóa khác",
+      "chức năng miễn dịch"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Beta-carotene là loại carotene chính trong cà rốt, được chuyển hóa thành vitamin A trong cơ thể.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.66,
+    "entities": [],
+    "keywords": [
+      "beta-carotene là loại carotene",
+      "thành vitamin a trong cơ thể",
+      "carotene chính trong cà rốt",
+      "loại carotene chính trong",
+      "là loại carotene chính"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Ăn chất béo cùng với cà rốt có thể giúp cơ thể hấp thụ nhiều beta-carotene hơn.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.706,
+    "entities": [],
+    "keywords": [
+      "cơ thể hấp thụ nhiều beta-carotene",
+      "cà rốt có thể giúp cơ thể",
+      "chất béo cùng"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Lutein cũng là chất chống oxy hóa phổ biến trong cà rốt vàng và cam, tốt cho mắt.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.742,
+    "entities": [],
+    "keywords": [
+      "phổ biến trong cà rốt vàng",
+      "lutein cũng là chất",
+      "cà rốt vàng và cam",
+      "hóa phổ biến",
+      "chất chống"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Lycopene có thể làm giảm nguy cơ ung thư, bệnh tim.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.808,
+    "entities": [],
+    "keywords": [
+      "làm giảm nguy cơ ung thư",
+      "lycopene có thể",
+      "bệnh tim"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Nấu chín cà rốt giúp giải phóng lycopene và cải thiện khả năng hấp thụ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.715,
+    "entities": [],
+    "keywords": [
+      "lycopene và cải thiện khả năng",
+      "khả năng hấp thụ",
+      "chín cà rốt",
+      "cà rốt giúp"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Anthocyanin là những chất chống oxy hóa mạnh mẽ được tìm thấy trong cà rốt sẫm màu.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.621,
+    "entities": [],
+    "keywords": [
+      "chất chống oxy hóa mạnh mẽ",
+      "trong cà rốt sẫm màu"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Lợi ích sức khỏe Giảm nguy cơ ung thư Chế độ ăn giàu carotenoid có thể chống lại một số loại ung thư, bao gồm ung thư tuyến tiền liệt , ung thư đại tràng , ung thư vú và ung thư dạ dày .",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.935,
+    "entities": [],
+    "keywords": [
+      "bao gồm ung thư tuyến tiền liệt",
+      "sức khỏe giảm nguy cơ ung thư",
+      "giảm nguy cơ ung thư chế độ",
+      "chế độ ăn giàu carotenoid",
+      "nguy cơ ung thư chế độ ăn",
+      "ung thư chế độ ăn giàu",
+      "carotenoid có thể",
+      "và ung thư dạ dày"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Giảm cholesterol trong máu Cholesterol trong máu cao là yếu tố nguy cơ gây bệnh tim.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.825,
+    "entities": [],
+    "keywords": [
+      "cholesterol trong máu cholesterol",
+      "giảm cholesterol trong máu",
+      "cholesterol trong máu cao",
+      "máu cholesterol trong máu",
+      "nguy cơ gây bệnh tim",
+      "máu cao là yếu tố"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Ăn cà rốt góp phần giảm mức cholesterol nhờ .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.767,
+    "entities": [],
+    "keywords": [
+      "cà rốt góp phần giảm mức",
+      "giảm mức cholesterol nhờ"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Giảm cân Vì ít calo nên ăn cà rốt giúp tăng cảm giác no, giảm lượng calo tiêu thụ trong các bữa ăn tiếp .",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.821,
+    "entities": [],
+    "keywords": [
+      "lượng calo tiêu thụ trong",
+      "giảm lượng calo tiêu thụ",
+      "giảm cân",
+      "calo nên",
+      "cà rốt",
+      "bữa ăn"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Tốt cho mắt Thiếu vitamin A làm tăng nguy cơ mắc quáng gà.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.707,
+    "entities": [],
+    "keywords": [
+      "mắt thiếu vitamin a làm",
+      "nguy cơ mắc quáng gà"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Carotenoid cũng có thể làm giảm nguy cơ thoái hóa điểm vàng do tuổi tác.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.743,
+    "entities": [],
+    "keywords": [
+      "giảm nguy cơ thoái hóa",
+      "nguy cơ thoái hóa điểm",
+      "điểm vàng do tuổi tác",
+      "thoái hóa điểm vàng",
+      "carotenoid cũng"
+    ]
+  },
+  {
+    "article_id": "9b1864126755bbb4bea5c6e36bbd4479",
+    "url": "https://vnexpress.net/an-ca-rot-co-loi-cho-suc-khoe-the-nao-4959323.html",
+    "text": "Ăn quá nhiều thực phẩm chứa carotene có thể khiến da hơi vàng nhưng thường vô hại, da có thể trở lại bình thường khi giảm lượng tiêu thụ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.676,
+    "entities": [],
+    "keywords": [
+      "thực phẩm chứa carotene có thể",
+      "bình thường khi giảm lượng",
+      "khi giảm lượng tiêu thụ",
+      "nhiều thực phẩm",
+      "da có thể",
+      "da hơi"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Flavio khởi phát bệnh với triệu chứng nghẹt mũi, đau họng, sốt nhẹ - tưởng chỉ là cảm cúm thông thường.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.706,
+    "entities": [],
+    "keywords": [
+      "bệnh với triệu chứng nghẹt",
+      "flavio khởi phát bệnh với",
+      "với triệu chứng nghẹt mũi",
+      "cúm thông thường"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Anh uống thuốc hạ sốt, vẫn đi học, tập bóng như mọi ngày.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.809,
+    "entities": [],
+    "keywords": [
+      "anh uống thuốc",
+      "tập bóng",
+      "mọi ngày"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Sau bữa ăn, anh bắt đầu nôn ói, đau bụng, sốt cao, sợ ánh sáng và phải nhập viện.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.8,
+    "entities": [],
+    "keywords": [
+      "sợ ánh sáng",
+      "anh bắt đầu",
+      "ánh sáng và",
+      "sau bữa ăn",
+      "đau bụng",
+      "nôn ói"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Tình trạng nhanh chóng diễn tiến nghiêm trọng, cơn đau đầu gối dữ dội khiến anh không thể đi lại - sau này mới biết \"do vi khuẩn não mô cầu gây nhiễm trùng huyết, kẹt lại ở khớp gối\".",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.841,
+    "entities": [],
+    "keywords": [
+      "đau đầu gối dữ dội khiến anh",
+      "cơn đau đầu gối dữ dội khiến",
+      "não mô cầu gây nhiễm trùng",
+      "vi khuẩn não mô cầu gây",
+      "nhiễm trùng huyết",
+      "ở khớp gối \""
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Ban đầu, bác sĩ chẩn đoán anh bị cảm cúm nặng, bỏ sót ban xuất huyết trên da - dấu hiệu điển hình của bệnh.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.852,
+    "entities": [],
+    "keywords": [
+      "dấu hiệu điển hình của bệnh",
+      "bác sĩ chẩn đoán anh bị",
+      "ban xuất huyết trên da",
+      "chẩn đoán anh bị cảm",
+      "xuất huyết trên da -",
+      "cúm nặng"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Đến khi xác định đúng là nhiễm khuẩn não mô cầu xâm lấn, anh đã rơi vào tình trạng hoại tử chi, buộc phải cắt bỏ một chân để giữ tính mạng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.805,
+    "entities": [],
+    "keywords": [
+      "nhiễm khuẩn não mô cầu",
+      "là nhiễm khuẩn não mô",
+      "chân để giữ tính mạng",
+      "tình trạng hoại tử",
+      "não mô cầu xâm lấn",
+      "hoại tử chi"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Nhờ sự hỗ trợ của gia đình, bạn bè và đồng đội, Flavio dần lấy lại cân bằng, tập đi bằng chân giả và trở lại luyện tập luyện thể thao.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.603,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Flavio",
+        "score": 0.9995028972625732
+      }
+    ],
+    "keywords": [
+      "và trở lại luyện tập luyện thể thao",
+      "sự hỗ trợ của gia đình",
+      "bạn bè và đồng đội",
+      "bằng chân",
+      "chân giả"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Với bà Catherine, ký ức nhận cuộc gọi từ bệnh viện cách đây 6 năm vẫn là ám .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.546,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Catherine",
+        "score": 0.9994433522224426
+      }
+    ],
+    "keywords": [
+      "cuộc gọi từ bệnh viện cách",
+      "nhận cuộc gọi từ bệnh viện",
+      "ký ức nhận cuộc gọi từ"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Bệnh não mô cầu là nhiễm trùng nguy hiểm do vi khuẩn Neisseria meningitidis gây ra, có thể khiến người khỏe mạnh tử vong chỉ trong 24 giờ hoặc để lại di chứng nặng nề như mất chi, điếc, rối loạn thần kinh.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.717,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Neisse",
+        "score": 0.7338106036186218
+      }
+    ],
+    "keywords": [
+      "vi khuẩn neisseria meningitidis gây",
+      "neisseria meningitidis gây ra",
+      "não mô cầu là nhiễm trùng",
+      "nhiễm trùng nguy hiểm",
+      "bệnh não mô cầu là"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Giai đoạn đầu, bệnh dễ nhầm với cảm cúm do chỉ có sốt, mệt, đau đầu nhẹ, nhưng sau đó nhanh chóng chuyển nặng với ban xuất huyết, cứng gáy, lú lẫn, sốc nhiễm trùng, hôn mê.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.74,
+    "entities": [],
+    "keywords": [
+      "sốc nhiễm trùng",
+      "ban xuất huyết",
+      "giai đoạn đầu",
+      "đau đầu nhẹ",
+      "nhưng sau",
+      "bệnh dễ",
+      "lú lẫn",
+      "cúm do"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Tỷ lệ tử vong có thể tới 50% nếu điều trị chậm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.592,
+    "entities": [],
+    "keywords": [
+      "tỷ lệ tử vong",
+      "% nếu"
+    ]
+  },
+  {
+    "article_id": "4db2bddacbc72c022d7c5b4df41147a3",
+    "url": "https://vnexpress.net/cau-thu-17-tuoi-tai-sinh-sau-cu-soc-mat-chan-do-benh-nao-4959383.html",
+    "text": "Tiêm vaccine là biện pháp phòng bệnh hiệu quả nhất, giúp ngăn chặn dịch bùng phát.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.703,
+    "entities": [],
+    "keywords": [
+      "biện pháp phòng bệnh hiệu quả nhất",
+      "là biện pháp phòng bệnh hiệu quả",
+      "vaccine là biện pháp phòng bệnh",
+      "ngăn chặn dịch",
+      "tiêm vaccine"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Lâm, 34 tuổi, từng nghĩ mình khỏe mạnh khi tập gym đều đặn, không hút thuốc hay rượu bia, cho đến khi nhận chẩn đoán không có tinh trùng - nguyên nhân khiến vợ chồng anh muộn con.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.749,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Lâm",
+        "score": 0.9993237257003784
+      }
+    ],
+    "keywords": [
+      "nguyên nhân khiến vợ chồng anh",
+      "- nguyên nhân khiến vợ chồng",
+      "khiến vợ chồng anh muộn",
+      "vợ chồng anh muộn con",
+      "34 tuổi"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Bác sĩ giải thích anh bị vô tinh, tức là trong tinh dịch không có tinh trùng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.901,
+    "entities": [],
+    "keywords": [
+      "bác sĩ giải thích anh bị",
+      "tinh dịch không"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Nhưng sau ba năm kết hôn, căn nhà vẫn lạnh lẽo, vắng tiếng trẻ con, Quang cũng miễn cưỡng đi khám \"cho xong thủ tục\" và rồi chết lặng trước kết quả tương tự.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.602,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Quang",
+        "score": 0.9994230270385742
+      }
+    ],
+    "keywords": [
+      "rồi chết lặng trước kết quả",
+      "căn nhà vẫn lạnh lẽo",
+      "sau ba năm kết hôn",
+      "nhưng sau ba năm"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Các xét nghiệm chuyên sâu tại Bệnh viện Nam học và Hiếm muộn Việt Bỉ sau đó chỉ ra nguyên nhân là tinh hoàn teo do biến chứng từ bệnh quai bị hồi nhỏ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.618,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Bệnh viện Nam học và Hiếm muộn Việt Bỉ",
+        "score": 0.9994957447052002
+      }
+    ],
+    "keywords": [
+      "tinh hoàn teo do biến chứng từ bệnh quai",
+      "chuyên sâu tại bệnh viện nam học",
+      "nguyên nhân là tinh hoàn teo do",
+      "do biến chứng từ bệnh quai bị",
+      "bệnh quai bị hồi nhỏ"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Vô tinh, hay tình trạng không có tinh trùng trong tinh dịch, là một trong những dạng vô sinh nam nghiêm trọng nhất.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.564,
+    "entities": [],
+    "keywords": [
+      "những dạng vô sinh nam nghiêm trọng",
+      "dạng vô sinh nam nghiêm trọng nhất",
+      "trong những dạng vô sinh nam",
+      "tinh trùng trong",
+      "tình trạng",
+      "tinh dịch"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Thứ nhất là \"vô tinh do tắc nghẽn\", khi tinh trùng vẫn được sản xuất ở tinh hoàn nhưng không thể thoát ra ngoài do đường dẫn bị tắc bởi dị tật bẩm sinh, nhiễm trùng, hoặc chấn thương.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.652,
+    "entities": [],
+    "keywords": [
+      "khi tinh trùng vẫn được",
+      "tắc bởi dị tật bẩm sinh",
+      "vô tinh do tắc nghẽn \"",
+      "tinh hoàn nhưng"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Thứ hai là \"vô tinh không do tắc nghẽn\", tình trạng nghiêm trọng hơn khi tinh hoàn suy giảm hoặc mất hoàn toàn khả năng sản xuất tinh trùng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.53,
+    "entities": [],
+    "keywords": [
+      "nghiêm trọng hơn khi tinh hoàn",
+      "tinh hoàn suy giảm hoặc mất",
+      "khi tinh hoàn suy giảm hoặc",
+      "hơn khi tinh hoàn suy giảm",
+      "vô tinh không do tắc nghẽn",
+      "tình trạng nghiêm trọng"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Nguyên nhân có thể là bất thường di truyền, các bệnh lý tại tinh hoàn như biến chứng quai bị, giãn tĩnh mạch thừng tinh, hoặc tác dụng phụ của một số loại thuốc như hóa trị ung thư.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.736,
+    "entities": [],
+    "keywords": [
+      "tinh hoàn như biến chứng quai bị",
+      "bệnh lý tại tinh hoàn như",
+      "giãn tĩnh mạch thừng tinh",
+      "thuốc như hóa trị ung thư",
+      "nguyên nhân có thể",
+      "các bệnh lý"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Trong nhiều trường hợp, nam giới bị vô tinh không hề có triệu chứng báo trước.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.628,
+    "entities": [],
+    "keywords": [
+      "triệu chứng báo trước",
+      "có triệu chứng báo",
+      "nhiều trường hợp",
+      "vô tinh không",
+      "nam giới bị"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Bác sĩ có thể thực hiện các thủ thuật như chọc hút lấy tinh trùng từ mào tinh qua da ; Phẫu thuật vi phẫu lấy tinh trùng từ mào tinh ; Phẫu thuật lấy tinh trùng từ tinh hoàn ; Phẫu thuật vi phẫu lấy tinh trùng từ tinh hoàn (Micro-).",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.751,
+    "entities": [],
+    "keywords": [
+      "phẫu thuật vi phẫu lấy tinh trùng",
+      "tinh trùng từ mào tinh qua",
+      "vi phẫu lấy tinh trùng từ",
+      "tinh trùng từ tinh hoàn (",
+      "bác sĩ có thể"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Những \"hạt giống\" quý giá này sau đó sẽ được dùng để thụ tinh trong ống nghiệm .",
+    "topic": "Công nghệ & Khoa học",
+    "confidence": 0.538,
+    "entities": [],
+    "keywords": [
+      "hạt giống \" quý giá này",
+      "\" hạt giống \" quý giá",
+      "quý giá này sau đó",
+      "\" quý giá này sau",
+      "thụ tinh trong"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Một năm sau ca phẫu thuật micro-, các bác sĩ tìm thấy một vài tinh trùng khỏe mạnh.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.706,
+    "entities": [],
+    "keywords": [
+      "sau ca phẫu thuật micro",
+      "năm sau ca phẫu thuật",
+      "một vài tinh trùng",
+      "tinh trùng khỏe",
+      "một năm sau ca",
+      "các bác sĩ",
+      "bác sĩ tìm",
+      "khỏe mạnh"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Vợ chồng anh đã thụ tinh trong ống nghiệm thành công, sinh bé trai khỏe mạnh.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.578,
+    "entities": [],
+    "keywords": [
+      "thụ tinh trong ống nghiệm thành công",
+      "vợ chồng anh đã thụ tinh",
+      "bé trai khỏe mạnh",
+      "sinh bé trai khỏe"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Các chuyên gia khuyến cáo nam giới nên đi khám khi có biểu hiện đau tức vùng kín, tinh hoàn teo nhỏ, cân nhắc trữ tinh trùng để bảo tồn khả năng sinh sản.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.905,
+    "entities": [],
+    "keywords": [
+      "các chuyên gia khuyến cáo nam giới",
+      "tinh trùng để bảo tồn khả năng",
+      "cân nhắc trữ tinh trùng để",
+      "biểu hiện đau tức vùng kín",
+      "trữ tinh trùng để bảo tồn",
+      "có biểu hiện đau tức vùng",
+      "tinh hoàn teo nhỏ"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Để phòng ngừa, cần duy trì lối sống lành mạnh, hạn chế hút thuốc, rượu bia và tránh các chất gây hại.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.986,
+    "entities": [],
+    "keywords": [
+      "rượu bia và",
+      "duy trì lối",
+      "hút thuốc",
+      "lối sống",
+      "chất gây"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Tránh tiếp xúc nhiệt độ cao như làm việc trong môi trường nóng hoặc tắm nước nóng thường xuyên có thể làm giảm sản xuất tinh trùng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.608,
+    "entities": [],
+    "keywords": [
+      "tiếp xúc nhiệt độ",
+      "trong môi trường",
+      "môi trường nóng",
+      "nhiệt độ cao",
+      "nước nóng",
+      "tắm nước"
+    ]
+  },
+  {
+    "article_id": "6ed550e7430188c262d306fb8d3f01bc",
+    "url": "https://vnexpress.net/cu-soc-vo-tinh-cua-cac-quy-ong-4959054.html",
+    "text": "Kiểm tra sức khỏe định kỳ giúp phát hiện sớm các vấn đề sinh sản và điều trị kịp thời.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.863,
+    "entities": [],
+    "keywords": [
+      "khỏe định kỳ giúp phát hiện",
+      "sức khỏe định kỳ giúp",
+      "vấn đề sinh sản",
+      "kiểm tra sức"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Trong khi ngủ, gan vẫn hoạt động để lọc độc tố và xử lý chất dinh dưỡng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.734,
+    "entities": [],
+    "keywords": [
+      "độc tố và xử lý chất",
+      "chất dinh dưỡng",
+      "gan vẫn"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Uống một cốc nước ấm khi thức dậy Một trong những cách dễ dàng và hiệu quả để tốt cho gan là uống nước ngay khi thức dậy vào buổi sáng.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.615,
+    "entities": [],
+    "keywords": [
+      "nước ngay khi thức",
+      "uống một cốc nước",
+      "dậy vào buổi sáng",
+      "gan là uống nước",
+      "nước ấm khi thức",
+      "một cốc nước ấm",
+      "cốc nước ấm khi"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Sau một đêm nhịn ăn, cơ thể bị mất nước và gan cần chất lỏng để đào thải chất thải đã xử lý qua đêm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.698,
+    "entities": [],
+    "keywords": [
+      "chất lỏng để đào thải",
+      "đào thải chất thải đã",
+      "cơ thể bị mất nước",
+      "gan cần chất lỏng",
+      "sau một đêm nhịn",
+      "nước và gan cần"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Chanh không trực tiếp giải độc gan nhưng nó cung cấp vitamin C và các chất chống oxy hóa tham gia vào quá trình trao đổi chất tổng thể.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.732,
+    "entities": [],
+    "keywords": [
+      "quá trình trao đổi chất tổng thể",
+      "vào quá trình trao đổi chất",
+      "chanh không trực tiếp giải",
+      "giải độc gan nhưng",
+      "vitamin c"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Kết hợp vận động nhẹ nhàng Hoạt động thể chất giúp cải thiện lưu lượng máu, tăng cường cung cấp oxy, nhờ đó thúc đẩy gan vận chuyển chất thải hiệu quả.",
+    "topic": "Thể thao",
+    "confidence": 0.959,
+    "entities": [],
+    "keywords": [
+      "thể chất giúp cải thiện lưu lượng",
+      "gan vận chuyển chất thải hiệu quả",
+      "lưu lượng máu",
+      "thúc đẩy gan"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Đi bộ ngắn vào buổi sáng, giãn cơ nhẹ nhàng hoặc tập yoga không chỉ tốt cho cơ bắp mà còn kích hoạt các cơ quan phối hợp hoạt động với gan chẳng hạn ruột và thận.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.89,
+    "entities": [],
+    "keywords": [
+      "giãn cơ nhẹ nhàng hoặc",
+      "ngắn vào buổi sáng",
+      "cơ bắp mà còn",
+      "cơ quan",
+      "đi bộ"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Tập thể dục cũng có khả năng đẩy lùi tình trạng viêm, ngăn tích tụ mỡ trong gan, nhất là ở người có nguy cơ mắc bệnh gan nhiễm mỡ không do rượu.",
+    "topic": "Thể thao",
+    "confidence": 0.977,
+    "entities": [],
+    "keywords": [
+      "tập thể dục cũng có khả năng",
+      "ngăn tích tụ mỡ trong gan",
+      "gan nhiễm mỡ không",
+      "mắc bệnh gan nhiễm",
+      "bệnh gan nhiễm mỡ",
+      "mỡ không do rượu"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Ăn bữa sáng tốt cho gan Những gì bạn ăn có thể gây gánh nặng hoặc tạo điều kiện thuận lợi cho gan.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.816,
+    "entities": [],
+    "keywords": [
+      "điều kiện thuận lợi",
+      "bữa sáng tốt cho",
+      "gan những gì bạn",
+      "ăn bữa sáng tốt",
+      "bạn ăn"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Ngũ cốc nguyên hạt như yến mạch , gạo lứt hoặc hạt vừng cung cấp năng lượng ổn định còn quả mọng, cam, quýt bổ sung chất chống oxy hóa bảo vệ chức năng gan.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.816,
+    "entities": [],
+    "keywords": [
+      "vừng cung cấp năng lượng ổn định",
+      "chống oxy hóa bảo vệ chức năng",
+      "oxy hóa bảo vệ chức năng gan",
+      "hạt vừng cung cấp năng lượng",
+      "quýt bổ sung chất chống",
+      "nguyên hạt như yến mạch"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Ăn protein nạc như trứng , sữa chua hoặc các loại đậu ổn định lượng đường trong máu, giảm căng thẳng cho gan.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.756,
+    "entities": [],
+    "keywords": [
+      "ổn định lượng đường trong máu",
+      "đậu ổn định lượng đường trong",
+      "loại đậu ổn định lượng đường",
+      "các loại đậu ổn định lượng",
+      "protein nạc như trứng"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Tránh bỏ bữa sáng hoặc tiêu thụ thực phẩm chế biến sẵn, nhiều đường gây tăng đột biến glucose và insulin.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.738,
+    "entities": [],
+    "keywords": [
+      "sáng hoặc tiêu thụ thực phẩm",
+      "tăng đột biến glucose và",
+      "bữa sáng hoặc tiêu thụ",
+      "thực phẩm chế biến",
+      "tránh bỏ bữa sáng",
+      "bỏ bữa sáng hoặc"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Uống cà phê vừa phải Cà phê không gây hại cho gan khi uống lượng vừa phải.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.688,
+    "entities": [],
+    "keywords": [
+      "cà phê vừa phải cà phê không",
+      "uống cà phê vừa phải cà phê",
+      "khi uống lượng vừa phải",
+      "gan khi uống lượng"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Uống cà phê thường xuyên có thể làm giảm nguy cơ mắc bệnh gan nhiễm mỡ và hỗ trợ sức khỏe tổng thể của gan.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.743,
+    "entities": [],
+    "keywords": [
+      "khỏe tổng thể của gan",
+      "nguy cơ mắc bệnh gan",
+      "cà phê thường xuyên",
+      "mắc bệnh gan nhiễm",
+      "bệnh gan nhiễm mỡ",
+      "gan nhiễm mỡ và"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Các hợp chất trong cà phê như cafestol và kahweol có đặc tính chống oxy hóa, chống viêm, bảo vệ tế bào gan khỏi bị tổn thương.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.637,
+    "entities": [],
+    "keywords": [
+      "các hợp chất trong cà phê",
+      "kahweol có đặc tính chống",
+      "hợp chất trong cà phê như",
+      "cafestol và kahweol có",
+      "cà phê như cafestol và",
+      "bảo vệ tế bào gan khỏi"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Điều quan trọng là cần uống điều độ như một hoặc hai tách cà phê đen, tránh thêm quá nhiều đường hoặc kem, vì chúng có thể làm giảm lợi ích.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.633,
+    "entities": [],
+    "keywords": [
+      "nhiều đường hoặc kem",
+      "điều quan trọng",
+      "giảm lợi ích",
+      "tách cà phê",
+      "cà phê đen",
+      "hai tách"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Đi ngủ muộn hoặc thức dậy không đều đặn có thể phá vỡ sự cân bằng nội tiết tố, làm chậm quá trình trao đổi chất của gan.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.804,
+    "entities": [],
+    "keywords": [
+      "chậm quá trình trao đổi chất",
+      "quá trình trao đổi chất của",
+      "sự cân bằng nội tiết tố",
+      "trao đổi chất của gan"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Duy trì lịch trình ngủ đều đặn cho phép gan thực hiện các chức năng phục hồi ban đêm hiệu quả.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.759,
+    "entities": [],
+    "keywords": [
+      "chức năng phục hồi ban đêm hiệu quả",
+      "các chức năng phục hồi ban đêm",
+      "gan thực hiện các chức năng",
+      "lịch trình ngủ"
+    ]
+  },
+  {
+    "article_id": "37d62627d465f86a9a398899869d1a86",
+    "url": "https://vnexpress.net/5-viec-nen-lam-moi-sang-giup-gan-giai-doc-4959322.html",
+    "text": "Thức dậy vào cùng một thời điểm mỗi ngày, lý tưởng nhất là khi ánh sáng tự nhiên chiếu vào phòng, giúp đồng bộ hóa đồng hồ sinh học.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.562,
+    "entities": [
+      {
+        "label": "DATE",
+        "text": "mỗi ngày",
+        "start": 32,
+        "end": 40,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "khi ánh sáng tự nhiên chiếu",
+      "là khi ánh sáng tự nhiên",
+      "một thời điểm mỗi ngày",
+      "hóa đồng hồ sinh học"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Ở tuổi 35, nhân viên kinh doanh này từng nghĩ những cơn đau là hậu quả của vài đêm ngủ sai tư thế.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.528,
+    "entities": [],
+    "keywords": [
+      "nhân viên kinh doanh",
+      "hậu quả của vài đêm",
+      "đêm ngủ sai tư thế",
+      "cơn đau là hậu quả",
+      "tuổi 35"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "\"Mỗi sáng tôi phải nhờ con gái cột tóc cho.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.585,
+    "entities": [
+      {
+        "label": "DATE",
+        "text": "Mỗi sáng",
+        "start": 1,
+        "end": 9,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "phải nhờ con gái",
+      "con gái cột tóc",
+      "gái cột tóc cho",
+      "nhờ con gái cột",
+      "mỗi sáng"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Bốn năm trước, chị được chẩn đoán thoái hóa đốt sống cổ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.763,
+    "entities": [],
+    "keywords": [
+      "chẩn đoán thoái hóa đốt sống",
+      "bốn năm trước"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Đau cổ vai gáy là tình trạng thường gặp, có thể xảy ra ở mọi người, đặc biệt dân văn phòng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.543,
+    "entities": [],
+    "keywords": [
+      "cổ vai gáy là tình trạng",
+      "đặc biệt dân văn phòng",
+      "tình trạng thường",
+      "mọi người"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "\"Những bệnh nhân giống anh Khang, chị Hương không còn hiếm\", ThS.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.995,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Khang",
+        "score": 0.9993430972099304
+      },
+      {
+        "label": "PERSON",
+        "text": "Hương",
+        "score": 0.9994317889213562
+      }
+    ],
+    "keywords": [
+      "những bệnh nhân giống anh",
+      "bệnh nhân giống anh khang",
+      "chị hương không còn"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "\"Nhiều bạn mới ngoài 25 tuổi đến khám trong tình trạng cột sống cổ cong về trước, vai xệ, đau cổ kéo dài.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.787,
+    "entities": [],
+    "keywords": [
+      "tình trạng cột sống",
+      "ngoài 25 tuổi đến",
+      "mới ngoài 25 tuổi",
+      "cột sống cổ cong",
+      "bạn mới ngoài 25",
+      "cổ kéo dài"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Bệnh nhân điều trị ở bệnh viện còn sử dụng cả liệu pháp sóng siêu âm, cấy chỉ, xoa bóp bấm huyệt.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.71,
+    "entities": [],
+    "keywords": [
+      "bệnh nhân điều trị ở bệnh viện",
+      "cả liệu pháp sóng siêu âm",
+      "sử dụng cả liệu pháp sóng",
+      "bệnh viện còn"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Giải quyết triệt để hơn, phương pháp điều trị hiệu chỉnh cơ xương khớp, kết hợp thay đổi thói quen tư thế xấu và tập những động tác đơn giản tại nhà, bệnh nhân có thể lấy lại cân bằng cổ vai gáy.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.967,
+    "entities": [],
+    "keywords": [
+      "phương pháp điều trị hiệu chỉnh cơ xương",
+      "điều trị hiệu chỉnh cơ xương khớp",
+      "thay đổi thói quen tư thế xấu",
+      "thói quen tư thế xấu và",
+      "cân bằng cổ"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Với những cơn đau không kéo dài, bản thân người bệnh có thể tự điều trị bớt đau bằng cách dùng cao dán hoặc dùng hai bàn tay xoa bóp, gõ, vuốt cho vùng cổ, vai, gáy nhiều lần để giảm đau.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.732,
+    "entities": [],
+    "keywords": [
+      "bản thân người bệnh có thể tự",
+      "cách dùng cao dán hoặc",
+      "vuốt cho vùng cổ",
+      "nhiều lần",
+      "cơn đau"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Còn trường hợp nặng như thoát vị đĩa đệm, trượt đốt sống, vẹo cột sống., người bệnh có thể được chỉ định phẫu thuật.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.819,
+    "entities": [],
+    "keywords": [
+      "chỉ định phẫu thuật",
+      "người bệnh có thể",
+      "thoát vị đĩa đệm",
+      "như thoát vị đĩa",
+      "trường hợp nặng",
+      "vẹo cột sống"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Tư thế ngồi đúng (bên trái).CK2 Huỳnh Tấn Vũ, Bệnh viện Đại học Y Dược . - Cơ sở 3, nhấn mạnh: \"Giữ tư thế đúng là cách rẻ tiền và hiệu quả nhất để bảo vệ cổ vai gáy\".",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.802,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Huỳnh Tấn Vũ",
+        "score": 0.9983686804771423
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Bệnh viện Đại học Y Dược",
+        "score": 0.999448299407959
+      }
+    ],
+    "keywords": [
+      "cách rẻ tiền và hiệu quả",
+      "rẻ tiền và hiệu quả nhất",
+      "bảo vệ cổ vai gáy \"",
+      "tư thế đúng là cách",
+      "tư thế ngồi",
+      "giữ tư thế",
+      "bên trái"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Khi ngủ, gối chỉ nên cao 8-10 cm, để cổ thẳng với cột sống.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.687,
+    "entities": [
+      {
+        "label": "DATE",
+        "text": "8-10",
+        "start": 25,
+        "end": 29,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "cột sống",
+      "cổ thẳng",
+      "gối chỉ"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Và tuyệt đối không \"bẻ cổ cho kêu rắc rắc\", hành động tưởng vô hại nhưng có thể khiến đĩa đệm trượt ra ngoài, gây thoát vị.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.554,
+    "entities": [],
+    "keywords": [
+      "hành động tưởng vô hại",
+      "đệm trượt ra ngoài",
+      "vô hại nhưng",
+      "khiến đĩa",
+      "rắc rắc \"",
+      "thoát vị",
+      "đĩa đệm",
+      "bẻ cổ"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Vận động đều đặn không chỉ giúp giảm đau mà còn duy trì sự linh hoạt và bền vững cho toàn bộ hệ cơ xương.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.675,
+    "entities": [],
+    "keywords": [
+      "không chỉ giúp",
+      "sự linh hoạt",
+      "hệ cơ xương",
+      "toàn bộ hệ",
+      "duy trì sự"
+    ]
+  },
+  {
+    "article_id": "68baaeb3c6ae5e5ca8837fbf2bf322a3",
+    "url": "https://vnexpress.net/co-vai-gay-keu-cuu-sau-9-tieng-moi-ngay-truoc-man-hinh-4960060.html",
+    "text": "Cả hai tiếp tục được điều trị cân bằng cơ thân trên để ngăn ngừa tiến triển thoát vị đĩa đệm .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.741,
+    "entities": [],
+    "keywords": [
+      "ngăn ngừa tiến triển thoát vị",
+      "cơ thân trên để ngăn ngừa",
+      "cân bằng cơ thân trên để",
+      "tiến triển thoát vị đĩa",
+      "thoát vị đĩa đệm"
+    ]
+  },
+  {
+    "article_id": "a7dc00b13a58ceadc749447bac9a63bb",
+    "url": "https://vnexpress.net/chang-beo-170-kg-co-co-bung-8-mui-4960133.html",
+    "text": "Cân nặng tăng vọt lên 170 kg, nhưng đó là sự gia tăng của cả cơ bắp lẫn mỡ một cách có kiểm soát.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.709,
+    "entities": [],
+    "keywords": [
+      "mỡ một cách có kiểm soát",
+      "cơ bắp lẫn mỡ một cách",
+      "lẫn mỡ một cách có",
+      "cả cơ bắp lẫn mỡ",
+      "gia tăng của",
+      "sự gia tăng",
+      "cân nặng"
+    ]
+  },
+  {
+    "article_id": "a7dc00b13a58ceadc749447bac9a63bb",
+    "url": "https://vnexpress.net/chang-beo-170-kg-co-co-bung-8-mui-4960133.html",
+    "text": "Các khối cơ của anh, đặc biệt là cơ bụng, ngày càng trở nên rõ nét, thách thức định kiến phổ biến rằng tỷ lệ mỡ cao đồng nghĩa với việc không thể có múi.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.598,
+    "entities": [],
+    "keywords": [
+      "tỷ lệ mỡ cao đồng nghĩa",
+      "các khối cơ của anh",
+      "rằng tỷ lệ mỡ cao",
+      "cơ bụng"
+    ]
+  },
+  {
+    "article_id": "a7dc00b13a58ceadc749447bac9a63bb",
+    "url": "https://vnexpress.net/chang-beo-170-kg-co-co-bung-8-mui-4960133.html",
+    "text": "Thực tế, các nghiên cứu về thể hình đã chỉ ra rằng việc sở hữu cơ bụng có thể nhìn thấy được phụ thuộc vào hai yếu tố: kích thước của cơ bụng (rectus abdominis) và độ dày của lớp mỡ dưới da che phủ chúng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.602,
+    "entities": [],
+    "keywords": [
+      "cơ bụng ( rectus abdominis",
+      "sở hữu cơ bụng có thể nhìn",
+      "việc sở hữu cơ bụng có thể",
+      "rectus abdominis ) và độ",
+      "rằng việc sở hữu cơ bụng",
+      "kích thước của cơ bụng"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Tiến sĩ Praveen Sharma thuộc Trường Nha khoa, Đại học Birmingham, cùng hai bác sĩ Xand và Chris van Tulleken, đã chỉ ra 4 lỗi phổ biến cần thay đổi để răng chắc khỏe và sạch hơn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.7,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Praveen Sharma",
+        "score": 0.999505341053009
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Trường Nha khoa",
+        "score": 0.9986446499824524
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Đại học Birmingham",
+        "score": 0.8692719340324402
+      },
+      {
+        "label": "PERSON",
+        "text": "Xand",
+        "score": 0.9989311695098877
+      },
+      {
+        "label": "PERSON",
+        "text": "Chris van Tulleken",
+        "score": 0.9994925260543823
+      }
+    ],
+    "keywords": [
+      "praveen sharma thuộc trường nha khoa",
+      "tiến sĩ praveen sharma thuộc trường",
+      "lỗi phổ biến",
+      "4 lỗi"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Đánh hai lần nhưng qua loa Dịch vụ Y tế Quốc gia khuyến cáo nên đánh răng hai lần mỗi ngày.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.753,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Dịch vụ Y tế Quốc gia",
+        "score": 0.8321016430854797
+      },
+      {
+        "label": "DATE",
+        "text": "mỗi ngày",
+        "start": 82,
+        "end": 90,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "dịch vụ y tế quốc gia khuyến cáo",
+      "y tế quốc gia khuyến cáo nên",
+      "hai lần mỗi ngày"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Mỗi chiếc răng có ba mặt - mặt ngoài, trong và mặt nhai - tất cả đều cần được làm sạch.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.598,
+    "entities": [],
+    "keywords": [
+      "mỗi chiếc răng có",
+      "chiếc răng có ba",
+      "răng có ba mặt",
+      "mặt ngoài",
+      "mặt nhai"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Ngoài ra, bác sĩ Xand gợi ý nên tập trung cảm nhận lông bàn chải và đánh răng một cách chánh niệm, không vừa đánh vừa lướt điện thoại.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.95,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Xand",
+        "score": 0.9985477328300476
+      }
+    ],
+    "keywords": [
+      "răng một cách chánh niệm",
+      "bác sĩ xand gợi ý nên",
+      "và đánh răng một cách",
+      "lướt điện thoại",
+      "lông bàn chải",
+      "cảm nhận lông",
+      "bàn chải và"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Nếu muốn đánh răng sau bữa sáng, cần chờ ít nhất 30 phút.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.738,
+    "entities": [],
+    "keywords": [
+      "răng sau bữa sáng",
+      "đánh răng sau bữa"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Axit trong thức ăn và đồ uống, đặc biệt nước trái cây hay cà phê, có thể làm men răng mềm hơn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.634,
+    "entities": [],
+    "keywords": [
+      "đặc biệt nước trái cây hay",
+      "nước trái cây hay cà phê",
+      "axit trong thức ăn và",
+      "trong thức ăn và đồ",
+      "thức ăn và đồ uống",
+      "răng mềm"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Bác sĩ Chris đề xuất, súc miệng bằng nước sau khi ăn để giảm lượng axit, rồi mới đánh răng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.903,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Chris",
+        "score": 0.9995273351669312
+      }
+    ],
+    "keywords": [
+      "bác sĩ chris đề xuất",
+      "súc miệng bằng nước",
+      "miệng bằng nước sau",
+      "bằng nước sau khi",
+      "nước sau khi ăn"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Giữ lại một lớp mỏng fluoride trên răng góp phần tăng cường khả năng bảo vệ trong nhiều giờ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.671,
+    "entities": [],
+    "keywords": [
+      "fluoride trên răng góp phần",
+      "tăng cường khả năng",
+      "khả năng bảo vệ",
+      "nhiều giờ",
+      "lớp mỏng"
+    ]
+  },
+  {
+    "article_id": "f1efe14b34a52b02b721d0e81cc6b20b",
+    "url": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+    "text": "Fluoride giúp bảo vệ men răng, ngăn sâu răng và đó mới là yếu tố then chốt cho một hàm răng khỏe mạnh.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.78,
+    "entities": [],
+    "keywords": [
+      "một hàm răng khỏe mạnh",
+      "yếu tố then chốt",
+      "fluoride giúp",
+      "then chốt cho",
+      "là yếu tố"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Gan lọc độc tố, tiêu hóa thức ăn, cân bằng hormone và sản xuất protein thiết yếu.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.864,
+    "entities": [],
+    "keywords": [
+      "protein thiết yếu",
+      "tiêu hóa thức ăn",
+      "cân bằng hormone",
+      "gan lọc"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Tổn thương gan đôi khi không xảy ra ngay lập tức mà âm thầm trong nhiều tháng, thậm chí nhiều năm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.636,
+    "entities": [],
+    "keywords": [
+      "tổn thương gan đôi khi không",
+      "nhiều tháng"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Khi gan bắt đầu suy yếu, một trong những dấu hiệu sớm là thay đổi thói quen đi tiểu như màu sắc, mùi hoặc tần suất.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.58,
+    "entities": [],
+    "keywords": [
+      "thói quen đi tiểu như màu sắc",
+      "khi gan bắt đầu suy yếu",
+      "thay đổi thói quen",
+      "những dấu hiệu",
+      "dấu hiệu sớm"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nhận biết sớm những thay đổi này có thể giúp chẩn đoán và điều trị trước khi tình trạng trở nặng.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.688,
+    "entities": [],
+    "keywords": [
+      "điều trị trước khi tình trạng",
+      "chẩn đoán và điều trị trước",
+      "trước khi tình trạng trở",
+      "khi tình trạng trở nặng",
+      "nhận biết sớm"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nước tiểu sẫm màu hoặc nâu bất thường Một trong những dấu hiệu sớm nhất của tổn thương gan có thể là nước tiểu sẫm màu, màu trà, xuất hiện trước các triệu chứng như vàng da, mệt mỏi toàn thân hoặc khó chịu ở bụng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.657,
+    "entities": [],
+    "keywords": [
+      "có thể là nước tiểu sẫm màu",
+      "của tổn thương gan có thể",
+      "các triệu chứng như vàng",
+      "nước tiểu sẫm màu hoặc",
+      "tiểu sẫm màu hoặc nâu"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nước tiểu chuyển sang màu vàng sẫm, hổ phách hoặc nâu cho thấy bilirubin, một sắc tố màu vàng được tạo ra khi hồng cầu bị phân hủy, đang tích tụ trong cơ thể.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.55,
+    "entities": [],
+    "keywords": [
+      "nước tiểu chuyển sang màu",
+      "khi hồng cầu bị phân hủy",
+      "sắc tố màu vàng được",
+      "chuyển sang màu vàng",
+      "một sắc tố màu vàng",
+      "ra khi hồng cầu bị",
+      "màu vàng được tạo",
+      "màu vàng sẫm"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Thông thường, gan lọc bilirubin song khi cơ quan này bị tổn thương hoặc viêm, chức năng này không hoạt động, sắc tố dư thừa sẽ ngấm vào nước tiểu.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.569,
+    "entities": [],
+    "keywords": [
+      "lọc bilirubin song khi cơ quan",
+      "bilirubin song khi cơ quan này",
+      "gan lọc bilirubin song khi",
+      "sắc tố dư thừa",
+      "chức năng"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nếu dấu hiệu này kéo dài có thể cho thấy gan không xử lý chất thải hiệu quả.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.74,
+    "entities": [],
+    "keywords": [
+      "không xử lý chất thải hiệu quả",
+      "gan không xử lý chất thải",
+      "dấu hiệu này",
+      "thấy gan"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Mùi nồng hoặc hôi Khi gan hoạt động kém, do gan nhiễm mỡ , viêm hoặc lạm dụng rượu bia, thuốc, khả năng xử lý bilirubin và các chất khác bị suy giảm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.699,
+    "entities": [],
+    "keywords": [
+      "khả năng xử lý bilirubin và",
+      "viêm hoặc lạm dụng rượu bia",
+      "hôi khi gan hoạt động",
+      "khi gan hoạt động kém",
+      "do gan nhiễm mỡ",
+      "mùi nồng"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nước tiểu khỏe mạnh thường có mùi nhẹ, còn mùi nồng hoặc hôi bất thường phản ánh tích tụ độc tố trong cơ thể.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.59,
+    "entities": [],
+    "keywords": [
+      "nước tiểu khỏe mạnh thường có",
+      "tiểu khỏe mạnh thường có mùi",
+      "tích tụ độc tố trong cơ thể",
+      "mạnh thường có mùi nhẹ"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Khi gan không thể lọc hiệu quả các chất có hại, chúng sẽ được đào thải qua thận.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.747,
+    "entities": [],
+    "keywords": [
+      "gan không thể lọc hiệu quả",
+      "khi gan không thể lọc",
+      "lọc hiệu quả các chất",
+      "hiệu quả các chất có",
+      "đào thải"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Sự quá tải này có thể làm thay đổi thành phần hóa học của nước tiểu, khiến nước tiểu có mùi khó chịu ngay cả khi bạn uống đủ nước.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.612,
+    "entities": [],
+    "keywords": [
+      "thành phần hóa học của nước tiểu",
+      "thay đổi thành phần hóa học của",
+      "nước tiểu có mùi khó chịu",
+      "khiến nước tiểu có mùi",
+      "bạn uống đủ nước"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nóng rát hoặc kích ứng khi đi tiểu Cảm giác nóng rát khi đi tiểu không phải lúc nào cũng do nhiễm trùng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.602,
+    "entities": [],
+    "keywords": [
+      "đi tiểu cảm giác nóng rát khi",
+      "kích ứng khi đi tiểu cảm giác"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Trong một số bệnh lý gan, nồng độ amoniac cao lưu thông trong máu và được đào thải qua nước tiểu.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.689,
+    "entities": [],
+    "keywords": [
+      "nồng độ amoniac cao lưu thông",
+      "một số bệnh lý",
+      "bệnh lý gan",
+      "đào thải"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Hóa chất này có thể gây kích ứng đường tiết niệu, tạo cảm giác nóng rát hoặc khó chịu nhẹ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.631,
+    "entities": [],
+    "keywords": [
+      "kích ứng đường tiết niệu",
+      "hóa chất này có thể",
+      "tạo cảm giác"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nếu tình trạng này xảy ra thường xuyên mà không có dấu hiệu nhiễm trùng có thể cho thấy hệ thống giải độc của gan không hiệu quả.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.685,
+    "entities": [],
+    "keywords": [
+      "dấu hiệu nhiễm trùng có thể",
+      "thấy hệ thống giải độc của",
+      "hệ thống giải độc của gan",
+      "của gan không hiệu quả",
+      "giải độc của gan không"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Nước tiểu có bọt hoặc sủi bọt không lắng Bọt tạm thời có thể xuất hiện trong nước tiểu sau khi tiểu nhiều, nhưng nếu nó vẫn sủi bọt ngay cả sau vài phút là dấu hiệu cảnh báo.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.541,
+    "entities": [],
+    "keywords": [
+      "xuất hiện trong nước tiểu sau",
+      "trong nước tiểu sau khi",
+      "nước tiểu sau khi tiểu",
+      "nước tiểu có bọt hoặc",
+      "sau khi tiểu nhiều"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Loại nước tiểu này thường chỉ ra tình trạng protein dư thừa rò rỉ vào nước tiểu, một vấn đề liên quan đến bệnh gan tiến triển hoặc xơ gan , thậm chí là bệnh thận .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.616,
+    "entities": [],
+    "keywords": [
+      "tình trạng protein dư thừa rò rỉ",
+      "loại nước tiểu này thường",
+      "thậm chí là bệnh thận"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Gan bị tổn thương khó duy trì sự cân bằng protein trong máu, khiến một số protein thoát ra ngoài qua thận.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.722,
+    "entities": [],
+    "keywords": [
+      "cân bằng protein trong máu",
+      "tổn thương khó duy trì sự",
+      "protein thoát ra ngoài",
+      "ra ngoài qua thận",
+      "một số protein"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Đi tiểu thường xuyên với lượng nước tiểu ít Đi tiểu thường xuyên, mỗi lần một lượng nhỏ, đôi khi có liên quan đến rối loạn chức năng gan.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.674,
+    "entities": [],
+    "keywords": [
+      "lượng nước tiểu ít đi tiểu thường xuyên",
+      "với lượng nước tiểu ít",
+      "rối loạn chức năng",
+      "mỗi lần một lượng",
+      "lần một lượng nhỏ",
+      "chức năng gan"
+    ]
+  },
+  {
+    "article_id": "70543c762936f22239dc29c6ed31a6c9",
+    "url": "https://vnexpress.net/nhan-biet-gan-yeu-qua-thoi-quen-di-tieu-4959778.html",
+    "text": "Cơ thể có thể đang cố gắng đào thải độc tố qua thận thường xuyên hơn do gan không hoạt động hiệu quả.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.761,
+    "entities": [],
+    "keywords": [
+      "độc tố qua thận thường xuyên",
+      "gan không hoạt động hiệu quả",
+      "thải độc tố qua thận",
+      "cơ thể có thể",
+      "đào thải"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Phụ nữ mang thai sau 35 tuổi có nguy cơ sinh con trai mắc hội chứng Klinefelter cao hơn một chút.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.787,
+    "entities": [
+      {
+        "label": "MISCELLANEOUS",
+        "text": "hội chứng",
+        "score": 0.6986101865768433
+      }
+    ],
+    "keywords": [
+      "trai mắc hội chứng klinefelter",
+      "hội chứng klinefelter cao hơn",
+      "mắc hội chứng klinefelter cao",
+      "nguy cơ sinh con trai",
+      "tuổi có nguy cơ sinh",
+      "có nguy cơ sinh con",
+      "sau 35 tuổi có"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Mỗi tế bào của người bình thường có 46 nhiễm sắc thể.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.556,
+    "entities": [],
+    "keywords": [
+      "tế bào của người bình thường",
+      "mỗi tế bào của người",
+      "46 nhiễm"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Trẻ gái thường có hai nhiễm sắc thể X, trong khi trẻ nam có một nhiễm sắc thể X và một Y.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.545,
+    "entities": [],
+    "keywords": [
+      "khi trẻ nam có",
+      "trẻ nam có một",
+      "gái thường",
+      "sắc thể x",
+      "trẻ gái"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Tuy nhiên, trẻ trai mắc hội chứng Klinefelter sẽ có thêm một bản sao nhiễm sắc thể X trong mỗi tế bào (tức 47,, thay vì 46,).",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.539,
+    "entities": [
+      {
+        "label": "MISCELLANEOUS",
+        "text": "hội",
+        "score": 0.7429349422454834
+      }
+    ],
+    "keywords": [
+      "trai mắc hội chứng klinefelter sẽ",
+      "bản sao nhiễm sắc thể x",
+      "mỗi tế bào",
+      "tế bào (",
+      "tức 47"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Vì hội chứng Klinefelter liên quan đến một nhiễm sắc thể X thừa nên đôi khi nó còn được gọi là hội chứng 47.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.542,
+    "entities": [],
+    "keywords": [
+      "hội chứng klinefelter liên quan đến",
+      "nhiễm sắc thể x thừa",
+      "sắc thể x thừa nên",
+      "hội chứng 47",
+      "đôi khi nó"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Dù hầu hết nam giới mắc hội chứng Klinefelter đều sản xuất ít hoặc không sản xuất tinh trùng nhưng các kỹ thuật hỗ trợ sinh sản tiên tiến hiện nay có thể giúp nam giới mắc bệnh này có con.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.67,
+    "entities": [],
+    "keywords": [
+      "nam giới mắc hội chứng klinefelter đều",
+      "hội chứng klinefelter đều sản xuất",
+      "sinh sản tiên tiến hiện nay có thể",
+      "hỗ trợ sinh sản tiên tiến hiện nay",
+      "kỹ thuật hỗ trợ sinh sản tiên tiến"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Ở trẻ sơ sinh: Cơ yếu Chậm phát triển các vận động như ngồi, bò và đi Chậm nói Tinh hoàn chưa xuống bìu Ở bé trai và thanh thiếu niên: Cao hơn mức trung bình Chân dài hơn, thân ngắn và hông rộng hơn Không dậy thì hoặc dậy thì chậm Cơ bắp kém, ít râu và lông ở cơ thể sau dậy thì Tinh hoàn nhỏ, săn chắc Dương vật nhỏ Mô vú to Xương yếu Mức năng lượng thấp Nhút nhát Khó thể hiện cảm xúc hoặc giao tiếp xã hội Vấn đề với việc đọc, viết, đánh vần hoặc toán học Khó tập trung Ở nam giới trưởng thành: Vô sinh Tinh hoàn và dương vật nhỏ Cao hơn mức trung bình Xương yếu (loãng xương) Giảm râu và lông cơ thể Mô vú to Giảm ham muốn tình dục Chẩn đoán Ngoài kiểm tra vùng sinh dục và ngực của bé trai, một số xét nghiệm được sử dụng để chẩn đoán hội chứng Klinefelter: Phân tích nhiễm sắc thể bao gồm việc lấy một mẫu máu nhỏ, sau đó gửi đến phòng xét nghiệm để kiểm tra hình dạng và số lượng nhiễm sắc thể.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.621,
+    "entities": [
+      {
+        "label": "MISCELLANEOUS",
+        "text": "hội",
+        "score": 0.6776719689369202
+      },
+      {
+        "label": "MISCELLANEOUS",
+        "text": "Klinefelter",
+        "score": 0.9274736046791077
+      }
+    ],
+    "keywords": [
+      "chẩn đoán hội chứng klinefelter",
+      "xương yếu mức năng lượng thấp",
+      "tinh hoàn và dương vật nhỏ",
+      "kiểm tra vùng sinh dục và",
+      "một mẫu máu nhỏ",
+      "tinh hoàn nhỏ",
+      "cơ yếu chậm"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Xét nghiệm hormone có thể thực hiện thông qua mẫu máu hoặc nước tiểu để phát hiện xem nồng độ hormone sinh dục có bất thường hay không.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.581,
+    "entities": [],
+    "keywords": [
+      "xem nồng độ hormone sinh dục",
+      "nồng độ hormone sinh dục có",
+      "thực hiện thông qua mẫu máu",
+      "mẫu máu hoặc nước tiểu",
+      "thông qua mẫu máu hoặc",
+      "hormone có thể"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Điều trị Không có cách chữa khỏi hoàn toàn những thay đổi nhiễm sắc thể giới tính do hội chứng Klinefelter gây ra song các phương pháp điều trị có thể giúp giảm tác dụng phụ, đặc biệt khi thực hiện sớm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.73,
+    "entities": [
+      {
+        "label": "MISCELLANEOUS",
+        "text": "hội chứng Klinefelter",
+        "score": 0.9180271029472351
+      }
+    ],
+    "keywords": [
+      "sắc thể giới tính do hội chứng klinefelter",
+      "giới tính do hội chứng klinefelter gây",
+      "hội chứng klinefelter gây ra",
+      "nhiễm sắc thể giới tính do",
+      "phương pháp điều trị"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Liệu pháp thay thế testosterone: Vì nam giới mắc hội chứng Klinefelter không sản xuất đủ testosterone nên áp dụng liệu pháp thay thế testosterone khi bắt đầu dậy thì có thể giúp ích.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.703,
+    "entities": [
+      {
+        "label": "MISCELLANEOUS",
+        "text": "hội chứng Kl",
+        "score": 0.7853507995605469
+      }
+    ],
+    "keywords": [
+      "nam giới mắc hội chứng klinefelter không",
+      "hội chứng klinefelter không sản xuất",
+      "liệu pháp thay thế testosterone khi",
+      "thay thế testosterone khi bắt đầu"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Nhờ đó, trẻ nam có giọng nói trầm hơn, mọc râu, lông ở cơ thể, tăng khối lượng cơ, kích thước dương vật.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.71,
+    "entities": [],
+    "keywords": [
+      "kích thước dương vật",
+      "tăng khối lượng cơ",
+      "trẻ nam có giọng",
+      "nam có giọng nói",
+      "lông ở cơ thể"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Liệu pháp testosterone cũng có thể cải thiện mật độ xương và giảm nguy cơ gãy xương nhưng không làm tinh hoàn to ra hoặc hỗ trợ điều trị vô sinh.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.763,
+    "entities": [],
+    "keywords": [
+      "có thể cải thiện mật độ xương",
+      "liệu pháp testosterone cũng",
+      "cải thiện mật độ xương và",
+      "giảm nguy cơ gãy xương",
+      "xương và giảm nguy cơ",
+      "mật độ xương và giảm"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Testosterone có thể được tiêm, bôi gel hoặc dán lên da.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.641,
+    "entities": [],
+    "keywords": [
+      "testosterone có thể",
+      "bôi gel",
+      "lên da"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Điều trị vô sinh: Tiêm tinh trùng vào bào tương noãn hỗ trợ cho nam giới có lượng tinh trùng ít.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.715,
+    "entities": [],
+    "keywords": [
+      "nam giới có lượng tinh trùng",
+      "vào bào tương noãn hỗ trợ",
+      "có lượng tinh trùng ít",
+      "cho nam giới có lượng",
+      "tiêm tinh trùng"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Loại bỏ mô vú: Người có ngực to, mô vú dư thừa có thể được loại bỏ bằng phẫu thuật thẩm mỹ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.772,
+    "entities": [],
+    "keywords": [
+      "vú dư thừa có thể được",
+      "người có ngực to",
+      "bằng phẫu thuật"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Hỗ trợ giáo dục, ngôn ngữ, vật lý trị liệu: Nhằm tìm kiếm thêm sự hỗ trợ cho việc học tập, khắc phục các vấn đề về lời nói, ngôn ngữ và yếu cơ.",
+    "topic": "Trẻ em & Giáo dục",
+    "confidence": 0.901,
+    "entities": [],
+    "keywords": [
+      "sự hỗ trợ cho việc",
+      "việc học tập",
+      "ngôn ngữ và",
+      "các vấn đề",
+      "vấn đề về",
+      "thêm sự"
+    ]
+  },
+  {
+    "article_id": "b2cb536d965409409b580560968ddbbd",
+    "url": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+    "text": "Biến chứng Nam giới mắc hội chứng Klinefelter có thể có nguy cơ cao mắc các bệnh sau: Suy giãn tĩnh mạch và các vấn đề khác về mạch máu Ung thư vú và ung thư máu, tủy xương hoặc hạch bạch huyết Bệnh phổi Các rối loạn tự miễn như tiểu đường type 1 và lupus Mỡ bụng, có thể dẫn đến các vấn đề sức khỏe khác.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.945,
+    "entities": [],
+    "keywords": [
+      "biến chứng nam giới mắc hội chứng klinefelter",
+      "nam giới mắc hội chứng klinefelter có thể",
+      "hội chứng klinefelter có thể có",
+      "nguy cơ cao mắc các bệnh",
+      "các bệnh sau"
+    ]
+  },
+  {
+    "article_id": "a8a8cde3bec1bb1f045e437722d142cb",
+    "url": "https://vnexpress.net/tp-hcm-khuyen-cao-khong-dung-san-pham-giam-can-do-ngan-collagen-quang-cao-4960503.html",
+    "text": "Sở An toàn thực phẩm khuyến cáo người dân không mua, không sử dụng các sản phẩm thực phẩm giảm cân do Ngân Collagen quảng cáo, trong thời gian chờ kết quả kiểm tra của cơ quan chức năng.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.788,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Ngân Collagen",
+        "score": 0.7541016936302185
+      }
+    ],
+    "keywords": [
+      "thực phẩm khuyến cáo người dân không",
+      "sở an toàn thực phẩm khuyến cáo",
+      "cân do ngân collagen quảng cáo",
+      "sản phẩm thực phẩm giảm cân",
+      "thực phẩm giảm cân do"
+    ]
+  },
+  {
+    "article_id": "a8a8cde3bec1bb1f045e437722d142cb",
+    "url": "https://vnexpress.net/tp-hcm-khuyen-cao-khong-dung-san-pham-giam-can-do-ngan-collagen-quang-cao-4960503.html",
+    "text": "Ngày 5/11, đại diện Sở An toàn thực phẩm cho biết đang phối hợp kiểm tra, xác minh hoạt động sản xuất, kinh doanh, quảng cáo các sản phẩm thực phẩm giảm cân do cá nhân có biệt danh \"Ngân Collagen\" quảng cáo trên mạng xã hội.",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.711,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Ngân Collagen",
+        "score": 0.9675405025482178
+      },
+      {
+        "label": "DATE",
+        "text": "Ngày 5",
+        "start": 0,
+        "end": 6,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "5/11",
+        "start": 5,
+        "end": 9,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "quảng cáo các sản phẩm thực phẩm",
+      "đại diện sở an toàn thực phẩm",
+      "sản phẩm thực phẩm giảm cân",
+      "biệt danh \" ngân collagen \"",
+      "các sản phẩm thực phẩm giảm",
+      "quảng cáo trên mạng xã hội",
+      "thực phẩm giảm cân do"
+    ]
+  },
+  {
+    "article_id": "a8a8cde3bec1bb1f045e437722d142cb",
+    "url": "https://vnexpress.net/tp-hcm-khuyen-cao-khong-dung-san-pham-giam-can-do-ngan-collagen-quang-cao-4960503.html",
+    "text": "Các sản phẩm được xác định gồm N-Collagen Chanh plus, N Collagen Đông trùng hạ thảo tổ yến plus, kẹo táo thải mỡ bụng (hoặc \"kẹo táo\", có ghi tên Công ty Hoàng Châu Pharma trên bao bì).",
+    "topic": "Dinh dưỡng & Thực phẩm",
+    "confidence": 0.719,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Công ty Hoàng Châu Pharma",
+        "score": 0.9988775253295898
+      }
+    ],
+    "keywords": [
+      "tên công ty hoàng châu pharma trên",
+      "ghi tên công ty hoàng châu pharma",
+      "hoàng châu pharma trên bao bì",
+      "n collagen đông trùng hạ thảo",
+      "kẹo táo thải mỡ bụng",
+      "táo thải mỡ bụng ("
+    ]
+  },
+  {
+    "article_id": "a8a8cde3bec1bb1f045e437722d142cb",
+    "url": "https://vnexpress.net/tp-hcm-khuyen-cao-khong-dung-san-pham-giam-can-do-ngan-collagen-quang-cao-4960503.html",
+    "text": "Cơ quan này khuyến cáo người dân chờ kết luận kiểm tra trước khi sử dụng các sản phẩm trên, đồng thời thận trọng với quảng cáo thực phẩm giảm cân tràn lan trên mạng xã hội, nhất là từ những cá nhân không rõ danh tính.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.717,
+    "entities": [],
+    "keywords": [
+      "thận trọng với quảng cáo thực phẩm",
+      "khuyến cáo người dân chờ kết luận",
+      "cơ quan này khuyến cáo người dân",
+      "quảng cáo thực phẩm giảm cân",
+      "với quảng cáo thực phẩm giảm",
+      "thực phẩm giảm cân tràn lan",
+      "tràn lan trên mạng xã hội"
+    ]
+  },
+  {
+    "article_id": "a8a8cde3bec1bb1f045e437722d142cb",
+    "url": "https://vnexpress.net/tp-hcm-khuyen-cao-khong-dung-san-pham-giam-can-do-ngan-collagen-quang-cao-4960503.html",
+    "text": "Hồi tháng 5, Cục An toàn Thực phẩm từng yêu cầu ngành y tế , Hà Nội lấy mẫu kiểm nghiệm và kiểm tra quy trình sản xuất sản phẩm kẹo táo thải mỡ bụng, N-Collagen Chanh plus, sau khi rà soát, hậu kiểm phát hiện sản phẩm chưa được cấp Giấy tiếp nhận đăng ký bản công bố sản phẩm và Giấy xác nhận nội dung quảng cáo cho sản phẩm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.889,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Cục An toàn Thực phẩm",
+        "score": 0.9964375495910645
+      },
+      {
+        "label": "LOCATION",
+        "text": "Hà Nội",
+        "score": 0.9984431862831116
+      },
+      {
+        "label": "DATE",
+        "text": "tháng 5",
+        "start": 4,
+        "end": 11,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "kiểm tra quy trình sản xuất sản phẩm",
+      "quy trình sản xuất sản phẩm kẹo",
+      "sản xuất sản phẩm kẹo táo thải",
+      "hà nội lấy mẫu kiểm nghiệm",
+      "sản phẩm kẹo táo thải mỡ",
+      "kẹo táo thải mỡ bụng",
+      "bản công bố sản phẩm"
+    ]
+  },
+  {
+    "article_id": "a8a8cde3bec1bb1f045e437722d142cb",
+    "url": "https://vnexpress.net/tp-hcm-khuyen-cao-khong-dung-san-pham-giam-can-do-ngan-collagen-quang-cao-4960503.html",
+    "text": "Trước đó, cô từng vướng tranh cãi với Ngân 98 về sản phẩm mỹ phẩm kinh doanh, cho rằng hàng của đối phương chứa sibutramine - chất bị cấm do có thể gây chán ăn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.506,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Ngân 98",
+        "score": 0.9976459741592407
+      }
+    ],
+    "keywords": [
+      "về sản phẩm mỹ phẩm kinh doanh",
+      "đối phương chứa sibutramine -",
+      "cô từng vướng tranh cãi",
+      "98 về sản phẩm mỹ phẩm",
+      "ngân 98 về sản phẩm"
+    ]
+  },
+  {
+    "article_id": "a8a8cde3bec1bb1f045e437722d142cb",
+    "url": "https://vnexpress.net/tp-hcm-khuyen-cao-khong-dung-san-pham-giam-can-do-ngan-collagen-quang-cao-4960503.html",
+    "text": "Tháng trước, Ngân 98 bị bắt điều tra hành vi Sản xuất, buôn bán hàng giả là thực phẩm , sau đó chồng là ca sĩ Lương Bằng Quang cũng bị bắt tạm giam để điều tra về hành vi Đưa hối lộ.",
+    "topic": "Xã hội & Pháp luật",
+    "confidence": 0.613,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Ngân 98",
+        "score": 0.9965839385986328
+      },
+      {
+        "label": "PERSON",
+        "text": "Lương Bằng Quang",
+        "score": 0.9995411038398743
+      }
+    ],
+    "keywords": [
+      "chồng là ca sĩ lương bằng quang",
+      "ca sĩ lương bằng quang cũng bị",
+      "hàng giả là thực phẩm",
+      "hành vi đưa hối lộ",
+      "hành vi sản xuất",
+      "điều tra hành vi",
+      "ngân 98 bị bắt"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Em bé chào đời tại Bệnh viện Nhi Đại học Magdeburg, sớm 16 tuần so với ngày dự sinh.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.587,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Bệnh viện Nhi Đại học Magdeburg",
+        "score": 0.9994770288467407
+      }
+    ],
+    "keywords": [
+      "bệnh viện nhi đại học magdeburg",
+      "bé chào đời tại bệnh viện",
+      "tại bệnh viện nhi đại học",
+      "em bé chào đời tại",
+      "16 tuần"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Tỷ lệ sống sót trên toàn thế giới trẻ sinh non với cân nặng 300 gram khoảng 25%.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.539,
+    "entities": [],
+    "keywords": [
+      "toàn thế giới trẻ sinh non",
+      "300 gram khoảng 25",
+      "cân nặng 300 gram",
+      "gram khoảng 25 %",
+      "tỷ lệ sống sót"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Điều trị cho một trẻ sơ sinh chỉ nặng 300 gram đặt ra những yêu cầu cao nhất đối với thiết bị và đội ngũ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.569,
+    "entities": [],
+    "keywords": [
+      "một trẻ sơ sinh chỉ",
+      "thiết bị và đội ngũ",
+      "những yêu cầu",
+      "300 gram",
+      "gram đặt"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "\"Việc thông khí trợ thở, nuôi dưỡng qua truyền dịch và bảo vệ làn da cùng các cơ quan nhạy cảm đòi hỏi một cách tiếp cận cực kỳ chính xác và cẩn thận\", bác sĩ Ralf Böttger, người trực tiếp điều trị, cho biết.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.851,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Ralf Böttger",
+        "score": 0.9991720914840698
+      }
+    ],
+    "keywords": [
+      "cơ quan nhạy cảm đòi hỏi một cách",
+      "việc thông khí trợ thở",
+      "bác sĩ ralf böttger",
+      "da cùng các cơ quan",
+      "một cách tiếp cận"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Bố mẹ bé ở lại bệnh viện suốt thời gian điều trị, giúp tăng sự gắn kết và cơ hội sống sót cho con.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.673,
+    "entities": [],
+    "keywords": [
+      "bệnh viện suốt thời gian điều trị",
+      "lại bệnh viện suốt thời gian",
+      "cơ hội sống sót cho con",
+      "bé ở lại bệnh viện",
+      "bố mẹ bé ở lại"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "9 tuần sau ngày dự sinh ban đầu, họ cuối cùng cũng được đưa con gái về nhà.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.561,
+    "entities": [],
+    "keywords": [
+      "sau ngày dự sinh ban đầu",
+      "tuần sau ngày dự sinh",
+      "được đưa con gái",
+      "9 tuần sau ngày",
+      "con gái về nhà",
+      "đưa con gái về"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Bé phải điều trị cho tình trạng thay đổi ở võng mạc bằng thuốc nhưng không cần đến các thiết bị hỗ trợ thị lực.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.648,
+    "entities": [],
+    "keywords": [
+      "ở võng mạc bằng thuốc",
+      "tình trạng thay đổi",
+      "thiết bị hỗ trợ",
+      "cho tình trạng",
+      "thuốc nhưng",
+      "bé phải"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Những trẻ sống sót sau sinh non có thể phải đối mặt với các hậu quả sức khỏe suốt đời, với khả năng bị khuyết tật và chậm phát triển cao hơn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.76,
+    "entities": [],
+    "keywords": [
+      "sống sót sau sinh non có thể",
+      "hậu quả sức khỏe suốt đời",
+      "sau sinh non có thể phải",
+      "những trẻ sống sót sau",
+      "các hậu quả sức khỏe"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Năm 2019, bé gái tên Saybie chào đời tại một bệnh viện ở San Diego, Mỹ cân nặng 245 gram, bằng kích thước một quả táo.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.535,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Saybie",
+        "score": 0.9963384866714478
+      },
+      {
+        "label": "LOCATION",
+        "text": "San Diego",
+        "score": 0.9988526105880737
+      },
+      {
+        "label": "LOCATION",
+        "text": "Mỹ",
+        "score": 0.9993224143981934
+      },
+      {
+        "label": "DATE",
+        "text": "Năm 2019",
+        "start": 0,
+        "end": 8,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "2019",
+        "start": 4,
+        "end": 8,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "gái tên saybie chào đời",
+      "tên saybie chào đời tại",
+      "bằng kích thước một quả",
+      "bé gái tên saybie",
+      "quả táo",
+      "mỹ cân"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Bé sống sót thần kỳ và xuất viện trong tình trạng khỏe mạnh, cân nặng đạt gần 2,3 kg.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.672,
+    "entities": [],
+    "keywords": [
+      "trong tình trạng",
+      "tình trạng khỏe",
+      "bé sống sót",
+      "thần kỳ và",
+      "khỏe mạnh",
+      "cân nặng"
+    ]
+  },
+  {
+    "article_id": "ba422ae6fa8510a70158d4f8feb0b536",
+    "url": "https://vnexpress.net/be-sinh-non-nang-300-gram-song-sot-ky-dieu-4960484.html",
+    "text": "Saybie được sinh ra ở tuần thai thứ 23, các bác sĩ từng nói với cha mẹ bé rằng con gái họ có thể chỉ sống được một giờ nhưng cuối cùng bé đã vượt qua.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.54,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Saybie",
+        "score": 0.9746050834655762
+      }
+    ],
+    "keywords": [
+      "ở tuần thai thứ 23",
+      "ra ở tuần thai thứ",
+      "bé rằng con gái",
+      "bé đã"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Kem chống nắng giả có thể khiến da cháy nắng, kích ứng, nổi mụn, nám, tăng sắc tố sau viêm, nguy cơ đặc biệt gây ung thư.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.731,
+    "entities": [],
+    "keywords": [
+      "nguy cơ đặc biệt gây ung thư",
+      "tăng sắc tố sau viêm",
+      "kem chống nắng giả",
+      "khiến da cháy nắng"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Bác sĩ Nguyễn Tiến Thành, Hội Da liễu Việt Nam, cho biết kem chống nắng không chứa đủ hoặc đúng hoạt chất chống nắng, công bố sai chỉ số /, khiến người dùng hiểu nhầm về hiệu quả bảo vệ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.821,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Nguyễn Tiến Thành",
+        "score": 0.999406099319458
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Hội Da liễu Việt Nam",
+        "score": 0.9994570016860962
+      }
+    ],
+    "keywords": [
+      "đúng hoạt chất chống nắng",
+      "kem chống nắng không",
+      "hội da liễu việt nam",
+      "biết kem chống nắng"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Hệ quả khi dùng là tia vẫn xuyên qua da, gây ra các tổn thương nghiêm trọng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.515,
+    "entities": [],
+    "keywords": [
+      "tổn thương nghiêm trọng",
+      "hệ quả khi dùng là",
+      "các tổn thương",
+      "tia vẫn",
+      "qua da"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Da còn bị kích ứng, nổi mụn, nám và tăng sắc tố sau viêm do xuyên sâu đến trung bì, kích thích tế bào tạo sắc tố tăng sinh melanin. làm tăng enzym phá hủy collagen và elastin, khiến da nhăn nheo, chảy xệ sớm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.718,
+    "entities": [],
+    "keywords": [
+      "kích thích tế bào tạo sắc tố",
+      "tế bào tạo sắc tố tăng",
+      "tăng sắc tố sau viêm",
+      "sắc tố sau viêm do",
+      "và tăng sắc tố sau",
+      "sau viêm do xuyên"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Đặc biệt, tia có thể gây đột biến gene, trong khi tạo ra các gốc tự do tấn công , làm tăng nguy cơ ung thư biểu mô hoặc melanoma - loại ung thư da nguy hiểm nhất.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.631,
+    "entities": [],
+    "keywords": [
+      "ung thư biểu mô hoặc melanoma",
+      "nguy cơ ung thư biểu mô hoặc",
+      "tăng nguy cơ ung thư biểu mô",
+      "loại ung thư da nguy hiểm",
+      "ung thư da nguy hiểm nhất",
+      "làm tăng nguy cơ ung thư",
+      "melanoma - loại ung thư"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Thực tế, kem chống nắng là \"lá chắn\" quan trọng bảo vệ da khỏi tác hại của tia cực tím .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.589,
+    "entities": [],
+    "keywords": [
+      "khỏi tác hại của tia",
+      "da khỏi tác hại của",
+      "tác hại của tia cực",
+      "kem chống nắng là",
+      "bảo vệ da",
+      "lá chắn"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Sử dụng sản phẩm giả hoặc kém chất lượng, người dùng không chỉ mất tiền mà còn đối mặt với nguy cơ cháy nắng cấp, lão hóa sớm và ung thư da.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.591,
+    "entities": [],
+    "keywords": [
+      "nguy cơ cháy nắng cấp",
+      "với nguy cơ cháy nắng",
+      "hóa sớm và ung thư",
+      "sớm và ung thư da",
+      "sử dụng sản phẩm",
+      "kém chất lượng",
+      "sản phẩm giả",
+      "lão hóa"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Kem chống nắng đạt chuẩn phải có chứa các hoạt chất bảo vệ da.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.557,
+    "entities": [],
+    "keywords": [
+      "các hoạt chất bảo vệ da",
+      "nắng đạt chuẩn phải",
+      "kem chống nắng đạt"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Trong đó, hoạt chất hóa học như avobenzone, octocrylene, Tinosorb S/M giúp hấp thụ tia .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.509,
+    "entities": [],
+    "keywords": [
+      "hóa học như avobenzone",
+      "m giúp hấp thụ tia",
+      "hoạt chất hóa học",
+      "tinosorb s"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Hoạt chất vật lý zinc oxide, titanium dioxide tác dụng phản xạ và phân tán tia khỏi da.",
+    "topic": "Công nghệ & Khoa học",
+    "confidence": 0.557,
+    "entities": [],
+    "keywords": [
+      "titanium dioxide tác dụng phản xạ",
+      "hoạt chất vật lý zinc oxide",
+      "dioxide tác dụng phản xạ và",
+      "phản xạ và phân tán tia"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Ngay cả bác sĩ chuyên môn cũng cần đến xét nghiệm phân tích quang phổ, định lượng / hoặc gửi mẫu tới phòng thí nghiệm để đánh giá.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.575,
+    "entities": [],
+    "keywords": [
+      "mẫu tới phòng thí nghiệm để",
+      "bác sĩ chuyên môn cũng cần",
+      "cả bác sĩ chuyên môn cũng",
+      "ngay cả bác sĩ chuyên môn"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Bác sĩ Thành từng tiếp nhận nhiều trường hợp da cháy xém sau khi dùng kem chống nắng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.689,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Thành",
+        "score": 0.9975619316101074
+      }
+    ],
+    "keywords": [
+      "tiếp nhận nhiều trường hợp da",
+      "nhiều trường hợp da cháy",
+      "trường hợp da cháy xém",
+      "dùng kem chống nắng",
+      "khi dùng kem chống"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Sau ba ngày dùng, cô gái bỏng rát mặt, da bong tróc, thâm sạm hai bên má, đặc biệt tại vùng gò má và trán.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.559,
+    "entities": [],
+    "keywords": [
+      "cô gái bỏng rát mặt",
+      "thâm sạm hai bên má",
+      "vùng gò má và trán",
+      "sau ba ngày dùng"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Bác sĩ nhận thấy bệnh nhân có biểu hiện tổn thương da cấp tính như mẩn đỏ, ngứa, sưng nề và rát ở các vùng bôi kem.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.674,
+    "entities": [],
+    "keywords": [
+      "bệnh nhân có biểu hiện tổn thương",
+      "biểu hiện tổn thương da cấp tính",
+      "tổn thương da cấp tính như",
+      "có biểu hiện tổn thương da",
+      "các vùng bôi kem"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Đây là dấu hiệu điển hình của phản ứng dị ứng với thành phần trong kem và tình trạng da không được bảo vệ khỏi tia .",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.503,
+    "entities": [],
+    "keywords": [
+      "dấu hiệu điển hình của phản ứng",
+      "điển hình của phản ứng dị ứng",
+      "với thành phần trong kem",
+      "tình trạng da không được",
+      "thành phần trong kem và",
+      "trong kem và tình trạng",
+      "kem và tình trạng da"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Hậu quả là da bị bỏng nắng, cháy xém và tăng sắc tố ở trán cùng hai má.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.626,
+    "entities": [],
+    "keywords": [
+      "tăng sắc tố ở trán",
+      "sắc tố ở trán cùng",
+      "hậu quả là da bị",
+      "da bị bỏng nắng"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Người dùng mascara, phấn mắt giả dễ bị nhiễm trùng mắt.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.547,
+    "entities": [],
+    "keywords": [
+      "người dùng mascara",
+      "nhiễm trùng mắt",
+      "phấn mắt"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Kem chống nắng giả khiến da dễ tổn thương, tăng nguy cơ bỏng nắng, ung thư da do không bảo vệ khỏi tia cực tím.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.651,
+    "entities": [],
+    "keywords": [
+      "tăng nguy cơ bỏng nắng",
+      "ung thư da do không",
+      "kem chống nắng giả",
+      "nắng giả khiến da"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Các thành phần độc hại như thủy ngân, hydroquinone có thể phá hủy hàng rào bảo vệ da, gây kích ứng kéo dài, dị ứng và nhiều vấn đề lâu dài.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.6,
+    "entities": [],
+    "keywords": [
+      "hydroquinone có thể phá hủy hàng rào",
+      "phá hủy hàng rào bảo vệ da",
+      "dị ứng và nhiều vấn đề",
+      "thành phần độc hại",
+      "kích ứng kéo dài",
+      "thủy ngân"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Để bảo vệ da hiệu quả, người dùng cần lưu ý ưu tiên các thương hiệu uy tín đã được công bố lưu hành bởi Bộ Y tế, chọn sản phẩm có nghiên cứu lâm sàng minh bạch, công bố kết quả thử nghiệm rõ ràng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.994,
+    "entities": [
+      {
+        "label": "ORGANIZATION",
+        "text": "Bộ Y tế",
+        "score": 0.9992666840553284
+      }
+    ],
+    "keywords": [
+      "ưu tiên các thương hiệu uy tín",
+      "lưu ý ưu tiên các thương hiệu",
+      "thương hiệu uy tín đã được",
+      "các thương hiệu uy tín đã",
+      "để bảo vệ da hiệu quả"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Đối với da sau laser, peel, lăn kim, cần chọn kem chống nắng dành riêng cho da nhạy cảm, không chứa cồn, không hương liệu.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.752,
+    "entities": [],
+    "keywords": [
+      "đối với da sau laser",
+      "chọn kem chống nắng",
+      "kem chống nắng dành",
+      "da nhạy cảm"
+    ]
+  },
+  {
+    "article_id": "bed64978fe64382875d23a20a3310d83",
+    "url": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-kem-chong-nang-gia-4960368.html",
+    "text": "Bác sĩ Thành khuyến nghị lựa chọn / phù hợp với từng hoạt động, cụ thể: Tình huống Thời gian tiếp xúc nắng Chỉ số nên dùng Làm việc văn phòng Cả ngày 30-50, ++/+++ Di chuyển nhẹ ngoài trời Sáng hoặc chiều 50, +++ Đi biển, bơi, thể thao 10-15h ( đỉnh) 50+, ++++, chống nước Da nhạy cảm, sau thủ thuật Cả ngày 50+, ++++, chuyên biệt cho da nhạy cảm Liều lượng 1-1,25 ml cho mặt, cổ (2 mg/cm² da) Thời điểm bôi: Trước khi ra nắng 15-30 phút.",
+    "topic": "Lối sống & Thói quen",
+    "confidence": 0.972,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Thành",
+        "score": 0.996459424495697
+      },
+      {
+        "label": "DATE",
+        "text": "ngày 30",
+        "start": 145,
+        "end": 152,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "ngày 50",
+        "start": 303,
+        "end": 310,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "30-50",
+        "start": 150,
+        "end": 155,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "1-1",
+        "start": 358,
+        "end": 361,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "15-30",
+        "start": 427,
+        "end": 432,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "tình huống thời gian tiếp xúc nắng",
+      "thời gian tiếp xúc nắng chỉ số",
+      "văn phòng cả ngày 30-50",
+      "khi ra nắng 15-30 phút",
+      "trước khi ra nắng",
+      "nước da nhạy cảm"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Ngày 5/11, bác sĩ Võ Lê Khánh Hùng, Khoa Mắt và Phẫu thuật Khúc xạ, Bệnh viện , cho biết bệnh nhi quốc tịch Trung Quốc sống tại , phản xạ đồng tử không còn đáp ứng, dấu hiệu tổn thương rất nặng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.805,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Võ Lê Khánh Hùng",
+        "score": 0.9994395971298218
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "Khoa Mắt và Phẫu thuật Khúc xạ",
+        "score": 0.9988873600959778
+      },
+      {
+        "label": "LOCATION",
+        "text": "Trung Quốc",
+        "score": 0.9993248581886292
+      },
+      {
+        "label": "DATE",
+        "text": "Ngày 5",
+        "start": 0,
+        "end": 6,
+        "score": 1.0
+      },
+      {
+        "label": "DATE",
+        "text": "5/11",
+        "start": 5,
+        "end": 9,
+        "score": 1.0
+      }
+    ],
+    "keywords": [
+      "bệnh nhi quốc tịch trung quốc sống",
+      "quốc tịch trung quốc sống tại",
+      "phản xạ đồng tử không còn",
+      "khoa mắt và phẫu thuật",
+      "tổn thương rất"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Bác sĩ Võ Lê Khánh Hùng khám cho bệnh nhi.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.699,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Võ Lê Khánh Hùng",
+        "score": 0.9995157122612
+      }
+    ],
+    "keywords": [
+      "bác sĩ võ lê khánh hùng khám"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Ổ nhiễm trùng nằm sát hệ thần kinh trung ương và có thể lan lên màng não, gây viêm não, mất thị lực hoặc tử vong.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.611,
+    "entities": [],
+    "keywords": [
+      "thần kinh trung ương và có thể",
+      "sát hệ thần kinh trung ương",
+      "hệ thần kinh trung ương và",
+      "ổ nhiễm trùng nằm sát"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Trong một ca áp xe mô mềm hay áp xe hốc mắt, việc dẫn lưu ổ áp xe hoàn toàn là yếu tố sống còn.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.615,
+    "entities": [],
+    "keywords": [
+      "lưu ổ áp xe hoàn toàn",
+      "trong một ca áp xe",
+      "việc dẫn lưu ổ áp",
+      "dẫn lưu ổ áp xe",
+      "hốc mắt"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Nếu không, kháng sinh khó thấm vào vùng nhiễm, khiến điều trị kéo dài mà không hiệu quả.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.709,
+    "entities": [],
+    "keywords": [
+      "kháng sinh khó",
+      "không hiệu quả",
+      "vùng nhiễm",
+      "vào vùng"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Êkíp phẫu thuật dẫn lưu ổ áp xe hốc mắt kết hợp nạo xoang trong cùng ngày.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.643,
+    "entities": [],
+    "keywords": [
+      "nạo xoang trong cùng ngày",
+      "lưu ổ áp xe hốc mắt",
+      "xe hốc mắt kết hợp",
+      "êkíp phẫu thuật"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Các bác sĩ Mắt khoan thành ngoài ổ mắt, lấy toàn bộ mủ để giải áp, sau đó bác sĩ Tai Mũi Họng nạo toàn bộ xoang sàng hàm bên trái, mở đường thông thoáng giữa xoang và hốc mắt để tránh tái phát.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.88,
+    "entities": [],
+    "keywords": [
+      "bác sĩ tai mũi họng nạo toàn bộ",
+      "họng nạo toàn bộ xoang sàng hàm",
+      "tai mũi họng nạo toàn bộ xoang",
+      "toàn bộ xoang sàng hàm bên",
+      "bác sĩ mắt khoan thành",
+      "các bác sĩ mắt khoan",
+      "thành ngoài ổ mắt",
+      "xoang và hốc mắt"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "\"Đường dẫn lưu áp xe nằm sát vùng não, chỉ một sơ suất nhỏ có thể gây viêm màng não hoặc tử vong, vì vậy mọi thao tác phải cực kỳ tỉ mỉ\", bác sĩ Hùng nói.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.834,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Hùng",
+        "score": 0.9989327788352966
+      }
+    ],
+    "keywords": [
+      "viêm màng não hoặc tử vong",
+      "đường dẫn lưu áp xe nằm",
+      "\" đường dẫn lưu áp xe",
+      "lưu áp xe nằm sát"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Sau phẫu thuật, bé được điều trị kháng sinh đặc hiệu với phác đồ truyền kéo dài nhằm tăng khả năng thấm vào vùng nhiễm.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.71,
+    "entities": [],
+    "keywords": [
+      "khả năng thấm vào vùng",
+      "điều trị kháng sinh",
+      "kháng sinh đặc hiệu",
+      "sau phẫu thuật",
+      "phác đồ truyền",
+      "tăng khả năng",
+      "vùng nhiễm"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Vài ngày sau, bé hết sốt, giảm sưng, thị lực dần phục hồi.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.78,
+    "entities": [],
+    "keywords": [
+      "vài ngày sau",
+      "bé hết"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Võ Công Minh, Trưởng khoa Tai Mũi Họng, cho biết viêm xoang gây áp xe sâu ở hốc mắt là trường hợp tương đối hiếm, song có thể trở nặng rất nhanh, đe dọa tới thị lực, thậm chí tính mạng.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.808,
+    "entities": [
+      {
+        "label": "PERSON",
+        "text": "Võ Công Minh",
+        "score": 0.9994880557060242
+      },
+      {
+        "label": "ORGANIZATION",
+        "text": "khoa Tai Mũi Họng",
+        "score": 0.99783855676651
+      }
+    ],
+    "keywords": [
+      "trưởng khoa tai mũi họng",
+      "ở hốc mắt là trường hợp",
+      "cho biết viêm xoang",
+      "viêm xoang gây áp",
+      "xe sâu ở hốc mắt",
+      "xoang gây áp xe"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Các triệu chứng diễn ra âm ỉ, thường bị nhầm với các triệu chứng cảm sốt, sổ mũi thông thường.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.633,
+    "entities": [],
+    "keywords": [
+      "triệu chứng cảm sốt",
+      "sổ mũi thông thường",
+      "triệu chứng diễn",
+      "các triệu chứng",
+      "âm ỉ"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Khi có các dấu hiệu rõ rệt thì bệnh nhi đã rơi vào tình trạng nặng, việc điều trị khó khăn, nhiều nguy cơ.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.64,
+    "entities": [],
+    "keywords": [
+      "khi có các dấu hiệu",
+      "tình trạng nặng",
+      "dấu hiệu rõ rệt",
+      "vào tình trạng",
+      "việc điều trị",
+      "nhiều nguy cơ",
+      "bệnh nhi đã"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Bác sĩ khuyến cáo cần đưa đi khám ngay khi trẻ bị viêm mũi, viêm họng nặng, sốt kéo dài, mệt lả hoặc sưng vùng mặt hoặc quanh mắt.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.934,
+    "entities": [],
+    "keywords": [
+      "bác sĩ khuyến cáo cần đưa",
+      "mệt lả hoặc sưng vùng",
+      "sưng vùng mặt hoặc",
+      "hoặc sưng vùng mặt",
+      "trẻ bị viêm mũi",
+      "viêm họng nặng"
+    ]
+  },
+  {
+    "article_id": "1e0d792af8d2c83d8c41f24dc782a577",
+    "url": "https://vnexpress.net/be-gai-suyt-mu-do-bien-chung-viem-xoang-4960221.html",
+    "text": "Nếu bệnh không cải thiện sau vài ngày, không nên chờ tự khỏi, vì viêm xoang cấp có thể gây nhiều biến chứng nặng hoặc trở thành mạn tính.",
+    "topic": "Sức khỏe & Y tế",
+    "confidence": 0.718,
+    "entities": [],
+    "keywords": [
+      "bệnh không cải thiện sau",
+      "cải thiện sau vài ngày",
+      "viêm xoang cấp có thể",
+      "vì viêm xoang cấp",
+      "nhiều biến chứng",
+      "biến chứng nặng",
+      "mạn tính",
+      "nếu bệnh"
+    ]
+  }
+]
