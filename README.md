@@ -1,25 +1,28 @@
-# ATI_Final
-How to Run:
-- Install requirements: pip install -r requirements.txt
+ATI_Final – How to Run
 
-1. Start the backend API (FastAPI)
-- Run in terminal: uvicorn backend.main:app --reload
-now articles can be crawled in admin page by clicking "Chạy Crawl ngay" button at "Nhật ký hệ thống" tab
-(output: crawled_articles.json)
+Install requirements:
+pip install -r requirements.txt
 
-2. Processing articles
-2.1 Run split sentences stage by running this command in terminal:
+Start the backend API (FastAPI):
+uvicorn backend.main:app --reload
+
+After the server starts, articles can be crawled in the admin page by clicking “Chạy Crawl ngay” in the “Nhật ký hệ thống” tab.
+Output: crawled_articles.json
+
+Processing articles:
+
+3.1 Split sentences:
 python backend/split_sentence.py
-(output: crawled_sentences.json)
+Output: crawled_sentences.json
 
-2.2 Run claim extraction stage by running this command in terminal:
+3.2 Claim extraction:
 python backend/claim_extraction.py
-(output: claims_checkpoint.json)
+Output: claims_checkpoint.json
 
-2.3 Run enrichment stage by running this command in terminal:
+3.3 Claim enrichment:
 python backend/claims_enrich.py
-(output: claims_enriched.json)
+Output: claims_enriched.json
 
-2.4. Cluster enriched claims by running this command in terminal:
+3.4 Cluster enriched claims:
 python backend/synthesis_claims.py
-(output: claims_grouped_summary.json)
+Output: claims_grouped_summary.json
