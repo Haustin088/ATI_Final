@@ -27,5 +27,5 @@ Output: claims_enriched.json
 python backend/synthesis_claims.py
 Output: claims_grouped_summary.json
 
-4. Launch the website
+4. Launch the website:
 To view the editor dashboard, open the project in Visual Studio Code and run editor.html using the “Live Server” extension. This will load the editor dashboard in your browser.
