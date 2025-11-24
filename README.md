@@ -1,10 +1,12 @@
 ATI_Final – How to Run
 
 1. Install requirements:
+
 run this in the terminal: pip install -r requirements.txt
 
-2. Start the backend API (FastAPI):
-uvicorn backend.main:app --reload
+3. Start the backend API (FastAPI):
+
+run this in the terminal: uvicorn backend.main:app --reload
 
 After the server starts, articles can be crawled in the admin page by clicking “Chạy Crawl ngay” in the “Nhật ký hệ thống” tab.
 Output: crawled_articles.json
